@@ -1,0 +1,184 @@
+[
+    {
+        "id": "the-chunk",
+        "name": "The Chunk",
+        "owner": "Denzel",
+        "location": {
+            "x": -169,
+            "z": -377
+        },
+        "items": [
+            {
+                "id": "minecraft:redstone",
+                "displayName": "Redstone Dust",
+                "cost": 8,
+                "currency": "Silver Coins",
+                "currencyItemId": "economy:creepercoin2",
+                "amountReceived": 64
+            },
+            {
+                "id": "minecraft:dirt",
+                "displayName": "Dirt",
+                "cost": 8,
+                "currency": "Silver Coins",
+                "currencyItemId": "economy:creepercoin2",
+                "amountReceived": 64
+            }
+        ]
+    },
+    {
+        "id": "hells-bells",
+        "name": "Hells Bells",
+        "owner": "Alice",
+        "location": {
+            "x": -74,
+            "z": -430
+        },
+        "items": [
+            {
+                "id": "minecraft:redstone",
+                "displayName": "Redstone Dust",
+                "cost": 12,
+                "currency": "Gold Coins",
+                "currencyItemId": "economy:creepercoin",
+                "amountReceived": 64
+            },
+            {
+                "id": "minecraft:sand",
+                "displayName": "Sand",
+                "cost": 12,
+                "currency": "Silver Coins",
+                "currencyItemId": "economy:creepercoin2",
+                "amountReceived": 64
+            }
+        ]
+    },
+    {
+        "id": "flickering-lights",
+        "name": "Flickering Lights",
+        "owner": "Unknown",
+        "location": {
+            "x": -100,
+            "z": -480
+        },
+        "items": []
+    },
+    {
+        "id": "cafebara",
+        "name": "CafeBara",
+        "owner": "Unknown",
+        "location": {
+            "x": -8,
+            "z": -400
+        },
+        "items": []
+    },
+    {
+        "id": "cats-ocean-treasures",
+        "name": "Cats Ocean Treasures",
+        "owner": "Unknown",
+        "location": {
+            "x": -194,
+            "z": -414
+        },
+        "items": [{
+                "id": "minecraft:enchanted_book",
+                "displayName": "Enchanted Book - Lure 3",
+                "cost": 10,
+                "currency": "Gold Coins",
+                "currencyItemId": "economy:creepercoin",
+                "amountReceived": 1
+            }]
+    },
+    {
+        "id": "midnight-bookstand",
+        "name": "Midnights Bookstand",
+        "owner": "Unknown",
+        "location": {
+            "x": 0,
+            "z": 0
+        },
+        "items": [
+            {
+                "id": "minecraft:enchanted_book",
+                "displayName": "Enchanted Book - Lure 3",
+                "cost": 10,
+                "currency": "Gold Coins",
+                "currencyItemId": "economy:creepercoin",
+                "amountReceived": 1
+            },
+            {
+                "id": "minecraft:enchanted_book",
+                "displayName": "Enchanted Book - Luck of the Sea 3",
+                "cost": 10,
+                "currency": "Gold Coins",
+                "currencyItemId": "economy:creepercoin",
+                "amountReceived": 1
+            },
+            {
+                "id": "minecraft:enchanted_book",
+                "displayName": "Enchanted Book - Efficiency 4",
+                "cost": 5,
+                "currency": "Gold Coins",
+                "currencyItemId": "economy:creepercoin",
+                "amountReceived": 1
+            },
+            {
+                "id": "minecraft:enchanted_book",
+                "displayName": "Enchanted Book - Mending",
+                "cost": 10,
+                "currency": "Gold Coins",
+                "currencyItemId": "economy:creepercoin",
+                "amountReceived": 1
+            },
+            {
+                "id": "minecraft:enchanted_book",
+                "displayName": "Enchanted Book - Unbreaking 3",
+                "cost": 8,
+                "currency": "Gold Coins",
+                "currencyItemId": "economy:creepercoin",
+                "amountReceived": 1
+            },
+            {
+                "id": "minecraft:enchanted_book",
+                "displayName": "Enchanted Book - Protection 4",
+                "cost": 10,
+                "currency": "Gold Coins",
+                "currencyItemId": "economy:creepercoin",
+                "amountReceived": 1
+            },
+            {
+                "id": "minecraft:enchanted_book",
+                "displayName": "Enchanted Book - Fortune 3",
+                "cost": 10,
+                "currency": "Gold Coins",
+                "currencyItemId": "economy:creepercoin",
+                "amountReceived": 1
+            },
+            {
+                "id": "minecraft:enchanted_book",
+                "displayName": "Enchanted Book - Silk Touch",
+                "cost": 8,
+                "currency": "Gold Coins",
+                "currencyItemId": "economy:creepercoin",
+                "amountReceived": 1
+            },
+            {
+                "id": "minecraft:enchanted_book",
+                "displayName": "Enchanted Book - Respiration 3",
+                "cost": 10,
+                "currency": "Gold Coins",
+                "currencyItemId": "economy:creepercoin",
+                "amountReceived": 1
+            },
+            {
+                "id": "minecraft:enchanted_book",
+                "displayName": "Enchanted Book - Aqua Affinity",
+                "cost": 8,
+                "currency": "Gold Coins",
+                "currencyItemId": "economy:creepercoin",
+                "amountReceived": 1
+            }
+        ]
+    }
+]
