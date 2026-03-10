@@ -57,7 +57,7 @@
         "amountReceived": 64
       },
       {
-        "id": "minecraft:mud",
+        "id": "minecraft:mud_brick",
         "displayName": "Mud Brick",
         "cost": 1,
         "currency": "Gold Coins",
@@ -209,7 +209,7 @@
         "amountReceived": 1
       },
       {
-        "id": "minecraft:stone",
+        "id": "minecraft:scarf_of_invisibility",
         "displayName": "Scarf of Invisiblity",
         "cost": 16,
         "currency": "Gold Coins",
@@ -241,7 +241,7 @@
         "amountReceived": 1
       },
       {
-        "id": "lilis_lucky_lures:anglers_hat",
+        "id": "artifacts:anglers_hat",
         "displayName": "Angler's Hat",
         "cost": 2,
         "currency": "Money",
@@ -289,7 +289,7 @@
         "amountReceived": 1
       },
       {
-        "id": "quark:cloud",
+        "id": "artifacts:cloud_in_a_bottle",
         "displayName": "Cloud Bottle",
         "cost": 1,
         "currency": "Money",
@@ -679,84 +679,10 @@
         "currency": "Gold Coins",
         "currencyItemId": "economy:creepercoin",
         "amountReceived": 3
-      },
-      {
-        "id": "minecraft:mud_brick_slab",
-        "displayName": "Mud Brick",
-        "cost": 1,
-        "currency": "Gold Coins",
-        "currencyItemId": "economy:creepercoin",
-        "amountReceived": 64
-      },
-      {
-        "id": "botania:cosmetic_puffy_scarf",
-        "displayName": "Scarf of Invisiblity",
-        "cost": 16,
-        "currency": "Gold Coins",
-        "currencyItemId": "economy:creepercoin",
-        "amountReceived": 1
-      },
-      {
-        "id": "artifacts:cloud_in_a_bottle",
-        "displayName": "Cloud Bottle",
-        "cost": 1,
-        "currency": "Money",
-        "currencyItemId": "economy:para_png",
-        "amountReceived": 1
-      },
-      {
-        "id": "artifacts:aqua_dashers",
-        "displayName": "Aqua-Dashers",
-        "cost": 1,
-        "currency": "Money",
-        "currencyItemId": "economy:para_png",
-        "amountReceived": 1
-      },
-      {
-        "id": "minecraft:quartz_block",
-        "displayName": "Block of Quartz",
-        "cost": 1,
-        "currency": "Gold Coins",
-        "currencyItemId": "economy:creepercoin",
-        "amountReceived": 64
-      },
-      {
-        "id": "artifacts:aqua_dashers",
-        "displayName": "Aqua-Dashers",
-        "cost": 1,
-        "currency": "Money",
-        "currencyItemId": "economy:para_png",
-        "amountReceived": 1
       }
     ]
   },
-  {
-    "id": "hells-bells",
-    "name": "Hells Bells",
-    "owner": "MourningTide",
-    "location": {
-      "x": -74,
-      "z": -430
-    },
-    "items": [
-      {
-        "id": "minecraft:redstone",
-        "displayName": "Redstone Dust",
-        "cost": 12,
-        "currency": "Gold Coins",
-        "currencyItemId": "economy:creepercoin",
-        "amountReceived": 64
-      },
-      {
-        "id": "minecraft:sand",
-        "displayName": "Sand",
-        "cost": 12,
-        "currency": "Silver Coins",
-        "currencyItemId": "economy:creepercoin2",
-        "amountReceived": 64
-      }
-    ]
-  },
+  
   {
     "id": "flickering-lights",
     "name": "Flickering Lights",
@@ -1461,7 +1387,6 @@
         "currencyItemId": "economy:creepercoin",
         "amountReceived": 1
       }
-     
     ]
   },
   {
@@ -1793,7 +1718,6 @@
         "currencyItemId": "economy:creepercoin",
         "amountReceived": 64
       }
-     
     ]
   },
   {
@@ -4066,12 +3990,12 @@
     "items": []
   },
   {
-    "id": "hells-bells-nether-imports",
-    "name": "Hells Bells Nether Imports",
-    "owner": "Unknown",
+    "id": "hells-bells",
+    "name": "Hells Bells",
+    "owner": "MourningTide",
     "location": {
-      "x": 0,
-      "z": 0
+      "x": -74,
+      "z": -430
     },
     "items": [
       {
@@ -4179,7 +4103,7 @@
         "amountReceived": 1
       },
       {
-        "id": "polly_pets:net",
+        "id": "minecraft:netherite_block",
         "displayName": "Block of Netherite",
         "cost": 20,
         "currency": "Money",
@@ -4195,7 +4119,7 @@
         "amountReceived": 16
       },
       {
-        "id": "minecraft:stone",
+        "id": "minecraft:skull",
         "displayName": "Wither Skull",
         "cost": 1,
         "currency": "Money",
@@ -4203,7 +4127,7 @@
         "amountReceived": 3
       },
       {
-        "id": "chipped:crying_obsidian",
+        "id": "minecraft:crying_obsidian",
         "displayName": "Crying Obsidian",
         "cost": 4,
         "currency": "Money",
@@ -4339,7 +4263,7 @@
         "amountReceived": 1
       },
       {
-        "id": "minecraft:potion",
+        "id": "minecraft:splash_potion",
         "displayName": "Splash Potion of Regeneration",
         "cost": 2,
         "currency": "Money",
@@ -4347,7 +4271,7 @@
         "amountReceived": 1
       },
       {
-        "id": "minecraft:stone",
+        "id": "mysticalagriculture:cobbled_soulstone",
         "displayName": "Cobbled Soulstone",
         "cost": 8,
         "currency": "Gold Coins",
@@ -4363,52 +4287,12 @@
         "amountReceived": 64
       },
       {
-        "id": "everycomp:faf/biomesoplenty/hellbark_beehive",
-        "displayName": "Hellbark",
+        "id": "biomesoplenty:hellbark_log",
+        "displayName": "Hellbark Log",
         "cost": 8,
         "currency": "Gold Coins",
         "currencyItemId": "economy:creepercoin",
         "amountReceived": 64
-      },
-      {
-        "id": "minecraft:quartz_block",
-        "displayName": "Block of Quartz",
-        "cost": 20,
-        "currency": "Gold Coins",
-        "currencyItemId": "economy:creepercoin",
-        "amountReceived": 64
-      },
-      {
-        "id": "minecraft:netherite_block",
-        "displayName": "Block of Netherite",
-        "cost": 20,
-        "currency": "Money",
-        "currencyItemId": "economy:para_png",
-        "amountReceived": 1
-      },
-      {
-        "id": "minecraft:wither_skeleton_skull",
-        "displayName": "Wither Skull",
-        "cost": 1,
-        "currency": "Money",
-        "currencyItemId": "economy:para_png",
-        "amountReceived": 3
-      },
-      {
-        "id": "biomesoplenty:rose_quartz_block",
-        "displayName": "Block of Rose Quartz",
-        "cost": 12,
-        "currency": "Gold Coins",
-        "currencyItemId": "economy:creepercoin",
-        "amountReceived": 64
-      },
-      {
-        "id": "minecraft:dead_fire_coral_block",
-        "displayName": "Potion of Fire Resisitance",
-        "cost": 2,
-        "currency": "Money",
-        "currencyItemId": "economy:para_png",
-        "amountReceived": 1
       },
       {
         "id": "minecraft:splash_potion",
@@ -4417,22 +4301,6 @@
         "currency": "Money",
         "currencyItemId": "economy:para_png",
         "amountReceived": 1
-      },
-      {
-        "id": "minecraft:cobbled_deepslate",
-        "displayName": "Cobbled Soulstone",
-        "cost": 8,
-        "currency": "Gold Coins",
-        "currencyItemId": "economy:creepercoin",
-        "amountReceived": 64
-      },
-      {
-        "id": "biomesoplenty:hellbark_sapling",
-        "displayName": "Hellbark",
-        "cost": 8,
-        "currency": "Gold Coins",
-        "currencyItemId": "economy:creepercoin",
-        "amountReceived": 64
       }
     ]
   },
@@ -4454,23 +4322,7 @@
         "amountReceived": 1
       },
       {
-        "id": "minecraft:honey_block",
-        "displayName": "Honey Block",
-        "cost": 1,
-        "currency": "Gold Coins",
-        "currencyItemId": "economy:creepercoin",
-        "amountReceived": 32
-      },
-      {
-        "id": "minecraft:honeycomb_block",
-        "displayName": "Honeycomb Block",
-        "cost": 1,
-        "currency": "Gold Coins",
-        "currencyItemId": "economy:creepercoin",
-        "amountReceived": 64
-      },
-      {
-        "id": "minecraft:stone",
+        "id": "minecraft:honey_bottle",
         "displayName": "Bottle of Honey",
         "cost": 1,
         "currency": "Gold Coins",
@@ -4484,14 +4336,6 @@
         "currency": "Gold Coins",
         "currencyItemId": "economy:creepercoin",
         "amountReceived": 32
-      },
-      {
-        "id": "vintagedelight:honey_jar",
-        "displayName": "Honey Jar Block",
-        "cost": 1,
-        "currency": "Gold Coins",
-        "currencyItemId": "economy:creepercoin",
-        "amountReceived": 1
       },
       {
         "id": "vintagedelight:honey_jar",
@@ -4510,20 +4354,28 @@
         "amountReceived": 4
       },
       {
-        "id": "minecraft:honey_bottle",
-        "displayName": "Bottle of Honey",
-        "cost": 1,
-        "currency": "Gold Coins",
-        "currencyItemId": "economy:creepercoin",
-        "amountReceived": 16
-      },
-      {
         "id": "minecraft:honey_block",
         "displayName": "Honey Jar Block",
         "cost": 1,
         "currency": "Gold Coins",
         "currencyItemId": "economy:creepercoin",
         "amountReceived": 1
+      },
+      {
+        "id": "minecraft:honeycomb_block",
+        "displayName": "Honeycomb Block",
+        "cost": 1,
+        "currency": "Golden Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 64
+      },
+      {
+        "id": "minecraft:honey_block",
+        "displayName": "Honey Block",
+        "cost": 1,
+        "currency": "Golden Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 32
       }
     ]
   },
@@ -5269,19 +5121,11 @@
       },
       {
         "id": "minecraft:iron_ingot",
-        "displayName": "Iron Ingots",
+        "displayName": "Iron Ingot",
         "cost": 10,
         "currency": "Gold Coins",
         "currencyItemId": "economy:creepercoin",
         "amountReceived": 32
-      },
-      {
-        "id": "minecraft:coal",
-        "displayName": "Block of Coal",
-        "cost": 5,
-        "currency": "Gold Coins",
-        "currencyItemId": "economy:creepercoin",
-        "amountReceived": 8
       },
       {
         "id": "minecraft:copper_ingot",
@@ -5292,7 +5136,7 @@
         "amountReceived": 16
       },
       {
-        "id": "minecraft:stone",
+        "id": "minecraft:redstone_block",
         "displayName": "Block of Redstone",
         "cost": 10,
         "currency": "Gold Coins",
@@ -5330,14 +5174,6 @@
         "currency": "Money",
         "currencyItemId": "economy:para_png",
         "amountReceived": 1
-      },
-      {
-        "id": "minecraft:iron_ore",
-        "displayName": "Iron Ingots",
-        "cost": 10,
-        "currency": "Gold Coins",
-        "currencyItemId": "economy:creepercoin",
-        "amountReceived": 32
       },
       {
         "id": "minecraft:coal_block",
@@ -6083,7 +5919,56 @@
       "x": -183,
       "z": -306
     },
-    "items": []
+    "items": [
+      {
+        "id": "herbalbrews:green_tea",
+        "displayName": "Green Tea",
+        "cost": 1,
+        "currency": "Golden Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 2
+      },
+      {
+        "id": "herbalbrews:rooibos_tea",
+        "displayName": "Rooibos Tea",
+        "cost": 1,
+        "currency": "Golden Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 2
+      },
+      {
+        "id": "croptopia:coffee",
+        "displayName": "Coffee",
+        "cost": 1,
+        "currency": "Golden Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 2
+      },
+      {
+        "id": "herbalbrews:black_tea",
+        "displayName": "Black Tea",
+        "cost": 1,
+        "currency": "Golden Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 2
+      },
+      {
+        "id": "herbalbrews:yerba_mate_tea",
+        "displayName": "Yerba Mate Tea",
+        "cost": 1,
+        "currency": "Golden Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 2
+      },
+      {
+        "id": "herbalbrews:hibiscus_tea",
+        "displayName": "Hibiscus Tea",
+        "cost": 1,
+        "currency": "Golden Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 2
+      }
+    ]
   },
   {
     "id": "ice-cream-parlor",
@@ -6093,7 +5978,24 @@
       "x": -182,
       "z": -266
     },
-    "items": []
+    "items": [
+      {
+        "id": "croptopia:pecan_ice_cream",
+        "displayName": "Pecan Ice Cream",
+        "cost": 1,
+        "currency": "Golden Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 2
+      },
+      {
+        "id": "croptopia:vanilla_ice_cream",
+        "displayName": "Vanilla Ice Cream",
+        "cost": 1,
+        "currency": "Golden Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 2
+      }
+    ]
   },
   {
     "id": "toni-tortellini",
@@ -6103,7 +6005,72 @@
       "x": -202,
       "z": -261
     },
-    "items": []
+    "items": [
+      {
+        "id": "vintagedelight:meat_pizza",
+        "displayName": "Meat Pizza",
+        "cost": 3,
+        "currency": "Golden Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 1
+      },
+      {
+        "id": "croptopia:cheese_pizza",
+        "displayName": "Cheese Pizza",
+        "cost": 2,
+        "currency": "Golden Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 1
+      },
+      {
+        "id": "candlelight:lasagne",
+        "displayName": "Lasagne",
+        "cost": 2,
+        "currency": "Golden Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 8
+      },
+      {
+        "id": "farmersdelight:chocolate_pie",
+        "displayName": "Chocolate Pie",
+        "cost": 1,
+        "currency": "Golden Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 1
+      },
+      {
+        "id": "candlelight:tomato_mozzarella_salad",
+        "displayName": "Tomato Mozzarella Salad",
+        "cost": 4,
+        "currency": "Golden Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 1
+      },
+      {
+        "id": "displaydelight:pasta_with_meatballs",
+        "displayName": "Pasta With Meatballs",
+        "cost": 2,
+        "currency": "Golden Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 4
+      },
+      {
+        "id": "displaydelight:pasta_with_mutton_chop",
+        "displayName": "Pasta With Mutton Chop",
+        "cost": 2,
+        "currency": "Golden Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 4
+      },
+      {
+        "id": "vinery:noir_wine",
+        "displayName": "Noir Wine",
+        "cost": 10,
+        "currency": "Golden Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 1
+      }
+    ]
   },
   {
     "id": "taco-bell",
@@ -6113,7 +6080,80 @@
       "x": -206,
       "z": -234
     },
-    "items": []
+    "items": [
+      {
+        "id": "vintagedelight:ghostly_chili",
+        "displayName": "Ghostly Chili",
+        "cost": 3,
+        "currency": "Golden Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 1
+      },
+      {
+        "id": "croptopia:tamales",
+        "displayName": "Tamales",
+        "cost": 3,
+        "currency": "Golden Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 1
+      },
+      {
+        "id": "croptopia:fajitas",
+        "displayName": "Fajitas",
+        "cost": 2,
+        "currency": "Golden Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 1
+      },
+      {
+        "id": "culturaldelights:fish_taco",
+        "displayName": "Fish Taco",
+        "cost": 2,
+        "currency": "Golden Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 1
+      },
+      {
+        "id": "culturaldelights:chicken_taco",
+        "displayName": "Chicken Taco",
+        "cost": 2,
+        "currency": "Golden Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 1
+      },
+      {
+        "id": "croptopia:taco",
+        "displayName": "Taco",
+        "cost": 2,
+        "currency": "Golden Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 1
+      },
+      {
+        "id": "vintagedelight:stuffed_burrito",
+        "displayName": "Stuffed Burrito",
+        "cost": 6,
+        "currency": "Golden Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 1
+      },
+      {
+        "id": "culturaldelights:beef_burrito",
+        "displayName": "Beef Burrito",
+        "cost": 4,
+        "currency": "Golden Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 1
+      },
+      {
+        "id": "croptopia:burrito",
+        "displayName": "Burrito",
+        "cost": 2,
+        "currency": "Golden Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 1
+      }
+    ]
   },
   {
     "id": "marijuana-dispensery",
@@ -6123,7 +6163,32 @@
       "x": -209,
       "z": -218
     },
-    "items": []
+    "items": [
+      {
+        "id": "nirvana:joint",
+        "displayName": "Joint",
+        "cost": 2,
+        "currency": "Golden Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 1
+      },
+      {
+        "id": "nirvana:weed_brownie",
+        "displayName": "Weed Brownie",
+        "cost": 2,
+        "currency": "Golden Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 4
+      },
+      {
+        "id": "minecraft:small_amethyst_bud",
+        "displayName": "Weed Bud",
+        "cost": 1,
+        "currency": "Golden Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 1
+      }
+    ]
   },
   {
     "id": "gloomy-gardens",
@@ -6143,7 +6208,312 @@
       "x": -118,
       "z": -421
     },
-    "items": []
+    "items": [
+      {
+        "id": "minecraft:netherite_upgrade_smithing_template",
+        "displayName": "Smithing Template (Netherite Upgrade)",
+        "cost": 20,
+        "currency": "Gold Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 1
+      },
+      {
+        "id": "minecraft:totem_of_undying",
+        "displayName": "Totem of Undying",
+        "cost": 15,
+        "currency": "Gold Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 1
+      },
+      {
+        "id": "minecraft:cooked_beef",
+        "displayName": "Steak",
+        "cost": 1,
+        "currency": "Gold Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 64
+      },
+      {
+        "id": "minecraft:experience_bottle",
+        "displayName": "Bottle o' Enchanting",
+        "cost": 1,
+        "currency": "Gold Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 16
+      },
+      {
+        "id": "minecraft:diamond",
+        "displayName": "Diamond",
+        "cost": 1,
+        "currency": "Gold Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 2
+      },
+      {
+        "id": "minecraft:netherite_ingot",
+        "displayName": "Netherite Ingot",
+        "cost": 1,
+        "currency": "Money",
+        "currencyItemId": "economy:para_png",
+        "amountReceived": 1
+      },
+      {
+        "id": "minecraft:wither_skeleton_skull",
+        "displayName": "Wither Skeleton Skull",
+        "cost": 10,
+        "currency": "Gold Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 1
+      },
+      {
+        "id": "minecraft:nether_star",
+        "displayName": "Nether Star",
+        "cost": 32,
+        "currency": "Gold Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 1
+      },
+      {
+        "id": "minecraft:iron_ingot",
+        "displayName": "Iron Ingot",
+        "cost": 8,
+        "currency": "Gold Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 32
+      },
+      {
+        "id": "minecraft:player_head",
+        "displayName": "Wither Projectile's Head",
+        "cost": 6,
+        "currency": "Gold Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 1
+      },
+      {
+        "id": "minecraft:player_head",
+        "displayName": "Wither's Head",
+        "cost": 3,
+        "currency": "Gold Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 1
+      },
+      {
+        "id": "minecraft:player_head",
+        "displayName": "Blue Wither Projectile's Head",
+        "cost": 8,
+        "currency": "Gold Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 1
+      },
+      {
+        "id": "minecraft:enchanted_book",
+        "displayName": "Enchanted Book (Unbreaking 3)",
+        "cost": 10,
+        "currency": "Gold Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 1
+      },
+      {
+        "id": "minecraft:enchanted_book",
+        "displayName": "Enchanted Book (Mending)",
+        "cost": 20,
+        "currency": "Gold Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 1
+      },
+      {
+        "id": "minecraft:enchanted_book",
+        "displayName": "Enchanted Book (Fortune 3)",
+        "cost": 16,
+        "currency": "Gold Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 1
+      },
+      {
+        "id": "minecraft:enchanted_book",
+        "displayName": "Enchanted Book (Looting 3)",
+        "cost": 16,
+        "currency": "Gold Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 1
+      },
+      {
+        "id": "minecraft:enchanted_book",
+        "displayName": "Enchanted Book (Sharpness 5)",
+        "cost": 16,
+        "currency": "Gold Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 1
+      },
+      {
+        "id": "minecraft:enchanted_book",
+        "displayName": "Enchanted Book (Protection 4)",
+        "cost": 20,
+        "currency": "Gold Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 1
+      },
+      {
+        "id": "minecraft:sugar",
+        "displayName": "Sugar",
+        "cost": 4,
+        "currency": "Gold Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 64
+      },
+      {
+        "id": "minecraft:honey_block",
+        "displayName": "Honey Block",
+        "cost": 5,
+        "currency": "Gold Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 1
+      },
+      {
+        "id": "minecraft:honey_bottle",
+        "displayName": "Honey Bottle",
+        "cost": 3,
+        "currency": "Gold Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 4
+      },
+      {
+        "id": "minecraft:honeycomb",
+        "displayName": "Honeycomb",
+        "cost": 1,
+        "currency": "Gold Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 16
+      },
+      {
+        "id": "minecraft:honeycomb_block",
+        "displayName": "Honeycomb Block",
+        "cost": 10,
+        "currency": "Gold Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 64
+      },
+      {
+        "id": "biomesoplenty:hellbark_log",
+        "displayName": "Hellbark Log",
+        "cost": 3,
+        "currency": "Gold Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 64
+      },
+      {
+        "id": "minecraft:mangrove_log",
+        "displayName": "Mangrove Log",
+        "cost": 3,
+        "currency": "Gold Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 64
+      },
+      {
+        "id": "minecraft:crimson_stem",
+        "displayName": "Crimson Stem",
+        "cost": 3,
+        "currency": "Gold Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 64
+      },
+      {
+        "id": "minecraft:spruce_log",
+        "displayName": "Spruce Log",
+        "cost": 3,
+        "currency": "Gold Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 64
+      },
+      {
+        "id": "minecraft:dark_oak_log",
+        "displayName": "Dark Oak Log",
+        "cost": 3,
+        "currency": "Gold Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 64
+      },
+      {
+        "id": "minecraft:jungle_log",
+        "displayName": "Jungle Log",
+        "cost": 3,
+        "currency": "Gold Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 64
+      },
+      {
+        "id": "minecraft:oak_log",
+        "displayName": "Oak Log",
+        "cost": 3,
+        "currency": "Gold Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 64
+      },
+      {
+        "id": "minecraft:acacia_log",
+        "displayName": "Acacia Log",
+        "cost": 3,
+        "currency": "Gold Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 64
+      },
+      {
+        "id": "minecraft:birch_log",
+        "displayName": "Birch Log",
+        "cost": 3,
+        "currency": "Gold Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 64
+      },
+      {
+        "id": "minecraft:cherry_log",
+        "displayName": "Cherry Log",
+        "cost": 3,
+        "currency": "Gold Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 64
+      },
+      {
+        "id": "minecraft:warped_stem",
+        "displayName": "Warped Stem",
+        "cost": 3,
+        "currency": "Gold Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 64
+      },
+      {
+        "id": "ars_nouveau:green_archwood_log",
+        "displayName": "Flourishing Archwood Log",
+        "cost": 3,
+        "currency": "Gold Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 64
+      },
+      {
+        "id": "ars_nouveau:blue_archwood_log",
+        "displayName": "Cascading Archwood Log",
+        "cost": 3,
+        "currency": "Gold Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 64
+      },
+      {
+        "id": "ars_nouveau:purple_archwood_log",
+        "displayName": "Vexing Archwood Log",
+        "cost": 3,
+        "currency": "Gold Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 64
+      },
+      {
+        "id": "ars_nouveau:red_archwood_log",
+        "displayName": "Blazing Archwood Log",
+        "cost": 3,
+        "currency": "Gold Coins",
+        "currencyItemId": "economy:creepercoin",
+        "amountReceived": 64
+      }
+    ]
   },
   {
     "id": "bottled-wine",
@@ -6153,7 +6523,48 @@
       "x": -145,
       "z": -429
     },
-    "items": []
+    "items": [
+      {
+        "id": "vinery:magnetic_wine",
+        "displayName": "Magnetic Wine",
+        "cost": 8,
+        "currency": "Money",
+        "currencyItemId": "economy:para_png",
+        "amountReceived": 1
+      },
+      {
+        "id": "vinery:stal_wine",
+        "displayName": "Stal Wine",
+        "cost": 8,
+        "currency": "Money",
+        "currencyItemId": "economy:para_png",
+        "amountReceived": 1
+      },
+      {
+        "id": "vinery:apple_wine",
+        "displayName": "Apple Wine",
+        "cost": 8,
+        "currency": "Money",
+        "currencyItemId": "economy:para_png",
+        "amountReceived": 1
+      },
+      {
+        "id": "vinery:red_wine",
+        "displayName": "Red Wine",
+        "cost": 8,
+        "currency": "Money",
+        "currencyItemId": "economy:para_png",
+        "amountReceived": 1
+      },
+      {
+        "id": "vinery:solaris_wine",
+        "displayName": "Solaris Wine",
+        "cost": 8,
+        "currency": "Money",
+        "currencyItemId": "economy:para_png",
+        "amountReceived": 1
+      }
+    ]
   },
   {
     "id": "freddy",
