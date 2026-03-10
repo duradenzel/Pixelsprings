@@ -1,0 +1,12 @@
+Product,Cost,Currency Type,Per Units,Floor,Column 6
+Cobblestone,2,Gold Coins,64,1,
+Stone,4,Gold Coins,64,1,
+Deepslate,6,Gold Coins,64,1,
+Iron Ingots,10,Gold Coins,32,1,
+Block of Coal,5,Gold Coins,8,1,
+Copper Ingot,4,Gold Coins,16,1,
+Block of Redstone,10,Gold Coins,8,-1,
+Block of Lapis Lazuli,10,Gold Coins,8,-1,
+Diamond,10,Gold Coins,4,-1,
+Emerald,10,Gold Coins,8,-1,
+Netherite Ingot,1,Money,1,-1,

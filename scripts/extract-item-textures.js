@@ -3,7 +3,6 @@ const path = require("path")
 const AdmZip = require("adm-zip")
 const fse = require("fs-extra")
 
-// 🔧 CHANGE THESE PATHS
 const MODS_FOLDER =
   "C:/Users/Huijb/curseforge/minecraft/Instances/PixelSprings/mods"
 
@@ -14,9 +13,7 @@ const OUTPUT_FOLDER =
   "C:/Users/Huijb/OneDrive/Bureaublad/Pixelsprings/pixelsprings-market/public/item-icons"
 
 
-// --------------------------------------
-// Utility: extract selected texture types
-// --------------------------------------
+
 async function extractFromJar(jarPath, options) {
   const zip = new AdmZip(jarPath)
   const entries = zip.getEntries()
@@ -43,7 +40,6 @@ async function extractFromJar(jarPath, options) {
 
     await fse.ensureDir(outputDir)
 
-    // 🛑 Skip if already exists (prevents overwriting modded items)
     if (fs.existsSync(outputPath)) continue
 
     fs.writeFileSync(outputPath, entry.getData())
@@ -52,13 +48,11 @@ async function extractFromJar(jarPath, options) {
 }
 
 
-// --------------------------------------
-// Main Extraction Flow
-// --------------------------------------
+
 async function extractTextures() {
   console.log("Starting extraction...\n")
 
-  // 1️⃣ Extract MOD item textures only
+  
   const modFiles = fs
     .readdirSync(MODS_FOLDER)
     .filter(f => f.endsWith(".jar"))
@@ -74,7 +68,7 @@ async function extractTextures() {
     })
   }
 
-  // 2️⃣ Extract VANILLA item + block textures
+
   console.log("\nExtracting vanilla textures...\n")
 
   await extractFromJar(MC_VERSION_JAR, {

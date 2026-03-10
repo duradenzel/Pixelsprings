@@ -6,7 +6,7 @@ export interface ShopItem {
   cost: number
   currency: string
   amountReceived: number
-  currencyItemId: string  // registry ID for the currency, used to display the correct icon
+  currencyItemId?: string  // registry ID for the currency, used to display the correct icon
 }
 
 export interface Shop {
