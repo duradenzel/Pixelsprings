@@ -6,8 +6,8 @@ const MC_BOUNDS = {
 }
 
 const IMAGE = {
-  width: 528,
-  height: 480
+  width: 480,
+  height: 508
 }
 
 export function mcToLeaflet(x: number, z: number): [number, number] {
