@@ -1,13 +1,13 @@
 const MC_BOUNDS = {
-  minX: -350,
-  maxX: 150,
-  minZ: -700,
-  maxZ: -100
+  minX: -320,
+  maxX: 206,
+  minZ: -592,
+  maxZ: -129
 }
 
 const IMAGE = {
-  width: 624,
-  height: 544
+  width: 528,
+  height: 480
 }
 
 export function mcToLeaflet(x: number, z: number): [number, number] {

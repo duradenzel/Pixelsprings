@@ -41,7 +41,7 @@ function MapEffect({ selectedShop }: { selectedShop?: Shop | null }) {
 
 const bounds: [[number, number], [number, number]] = [
   [0, 0],
-  [544, 624]
+  [528, 480]
 ]
 
 export function MapView({ shops, selectedShop, onSelectShop }: Props) {

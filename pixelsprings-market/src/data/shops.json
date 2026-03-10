@@ -2,7 +2,7 @@
   {
     "id": "the-chunk",
     "name": "The Chunk",
-    "owner": "Denzel",
+    "owner": "Unknown",
     "location": {
       "x": -169,
       "z": -377
@@ -733,7 +733,7 @@
   {
     "id": "hells-bells",
     "name": "Hells Bells",
-    "owner": "Alice",
+    "owner": "MourningTide",
     "location": {
       "x": -74,
       "z": -430
@@ -760,7 +760,7 @@
   {
     "id": "flickering-lights",
     "name": "Flickering Lights",
-    "owner": "Unknown",
+    "owner": "Prinia",
     "location": {
       "x": -100,
       "z": -480
@@ -1091,7 +1091,7 @@
   {
     "id": "cats-ocean-treasures",
     "name": "Cats Ocean Treasures",
-    "owner": "Unknown",
+    "owner": "DrownedCat",
     "location": {
       "x": -194,
       "z": -414
@@ -1112,8 +1112,8 @@
     "name": "Midnights Bookstand",
     "owner": "Unknown",
     "location": {
-      "x": 0,
-      "z": 0
+      "x": -117,
+      "z": -342
     },
     "items": [
       {
@@ -1199,16 +1199,16 @@
     ]
   },
   {
-    "id": "ars-nouveau-supplies",
-    "name": "Ars Nouveau Supplies",
-    "owner": "Unknown",
+    "id": "chisuke-ars-nouveau",
+    "name": "Chisuke's Ars Nouveau",
+    "owner": "Fuushu",
     "location": {
-      "x": 0,
-      "z": 0
+      "x": -187,
+      "z": -360
     },
     "items": [
       {
-        "id": "butcher:jar",
+        "id": "ars-nouveau:source_jar",
         "displayName": "Source Jar - Full",
         "cost": 25,
         "currency": "Gold Coins",
@@ -1370,12 +1370,12 @@
     ]
   },
   {
-    "id": "ars-nouveau-threads",
-    "name": "Ars Nouveau Threads",
-    "owner": "Unknown",
+    "id": "chisuke-threads",
+    "name": "Chisuke's Threads",
+    "owner": "Fuushu",
     "location": {
-      "x": 0,
-      "z": 0
+      "x": -192,
+      "z": -361
     },
     "items": [
       {
@@ -1467,10 +1467,10 @@
   {
     "id": "avas-tradehall",
     "name": "Avas Tradehall",
-    "owner": "Unknown",
+    "owner": "Ava",
     "location": {
-      "x": 0,
-      "z": 0
+      "x": -170,
+      "z": -353
     },
     "items": [
       {
@@ -1799,10 +1799,10 @@
   {
     "id": "building-materials",
     "name": "Building Materials",
-    "owner": "Unknown",
+    "owner": "Reminiscent36",
     "location": {
-      "x": 0,
-      "z": 0
+      "x": -151,
+      "z": -356
     },
     "items": [
       {
@@ -2352,8 +2352,8 @@
     ]
   },
   {
-    "id": "casss-essentials",
-    "name": "Casss Essentials",
+    "id": "cass-essentials",
+    "name": "Cass' Essentials",
     "owner": "Unknown",
     "location": {
       "x": 0,
@@ -2459,12 +2459,12 @@
     ]
   },
   {
-    "id": "chinese-market-fish-monger",
-    "name": "Chinese Market Fish Monger",
-    "owner": "Unknown",
+    "id": "chisuke-fish-monger",
+    "name": "Chisuke's Fish Monger",
+    "owner": "Fushuu",
     "location": {
-      "x": 0,
-      "z": 0
+      "x": -187,
+      "z": -360
     },
     "items": [
       {
@@ -2696,10 +2696,10 @@
   {
     "id": "credible-creedences-wagon-of-wonderment",
     "name": "Credible Creedences Wagon of Wonderment",
-    "owner": "Unknown",
+    "owner": "MourningTide",
     "location": {
-      "x": 0,
-      "z": 0
+      "x": -76,
+      "z": -383
     },
     "items": [
       {
@@ -2797,8 +2797,8 @@
     "name": "Enchanted Books and Tomes",
     "owner": "Unknown",
     "location": {
-      "x": 0,
-      "z": 0
+      "x": -34,
+      "z": -400
     },
     "items": [
       {
@@ -3592,8 +3592,8 @@
     "name": "End Goods",
     "owner": "Unknown",
     "location": {
-      "x": 0,
-      "z": 0
+      "x": -34,
+      "z": -436
     },
     "items": [
       {
@@ -3811,8 +3811,8 @@
     "name": "Essence Stand",
     "owner": "Unknown",
     "location": {
-      "x": 0,
-      "z": 0
+      "x": -113,
+      "z": -348
     },
     "items": [
       {
@@ -3852,10 +3852,10 @@
   {
     "id": "eternal-steak",
     "name": "Eternal Steak",
-    "owner": "Unknown",
+    "owner": "DrownedCat",
     "location": {
-      "x": 0,
-      "z": 0
+      "x": -102,
+      "z": -356
     },
     "items": [
       {
@@ -3873,8 +3873,8 @@
     "name": "Fishy Business",
     "owner": "Unknown",
     "location": {
-      "x": 0,
-      "z": 0
+      "x": -113,
+      "z": -376
     },
     "items": [
       {
@@ -4441,8 +4441,8 @@
     "name": "Honey Vibe",
     "owner": "Unknown",
     "location": {
-      "x": 0,
-      "z": 0
+      "x": -198,
+      "z": -295
     },
     "items": [
       {
@@ -4528,12 +4528,12 @@
     ]
   },
   {
-    "id": "instruments",
-    "name": "Instruments",
+    "id": "chisuke-instruments",
+    "name": "Chisuke's Instruments",
     "owner": "Unknown",
     "location": {
-      "x": 0,
-      "z": 0
+      "x": -190,
+      "z": -362
     },
     "items": [
       {
@@ -4690,185 +4690,6 @@
         "currency": "Gold Coins",
         "currencyItemId": "economy:creepercoin",
         "amountReceived": 8
-      }
-    ]
-  },
-  {
-    "id": "midnights-book-corner",
-    "name": "Midnights Book Corner",
-    "owner": "Unknown",
-    "location": {
-      "x": 0,
-      "z": 0
-    },
-    "items": [
-      {
-        "id": "ftbquests:book",
-        "displayName": "Enchanted Book - Lure 3",
-        "cost": 10,
-        "currency": "Gold Coins",
-        "currencyItemId": "economy:creepercoin",
-        "amountReceived": 0
-      },
-      {
-        "id": "ftbquests:book",
-        "displayName": "Enchanted Book - Luck of the Sea 3",
-        "cost": 10,
-        "currency": "Gold Coins",
-        "currencyItemId": "economy:creepercoin",
-        "amountReceived": 0
-      },
-      {
-        "id": "ftbquests:book",
-        "displayName": "Enchanted Book - Efficiency 4",
-        "cost": 5,
-        "currency": "Gold Coins",
-        "currencyItemId": "economy:creepercoin",
-        "amountReceived": 0
-      },
-      {
-        "id": "ftbquests:book",
-        "displayName": "Enchanted Book - Mending",
-        "cost": 10,
-        "currency": "Gold Coins",
-        "currencyItemId": "economy:creepercoin",
-        "amountReceived": 0
-      },
-      {
-        "id": "minecraft:stone",
-        "displayName": "Unbreaking 3",
-        "cost": 8,
-        "currency": "Gold Coins",
-        "currencyItemId": "economy:creepercoin",
-        "amountReceived": 0
-      },
-      {
-        "id": "minecraft:stone",
-        "displayName": "Protection 4",
-        "cost": 10,
-        "currency": "Gold Coins",
-        "currencyItemId": "economy:creepercoin",
-        "amountReceived": 0
-      },
-      {
-        "id": "itemfilters:or",
-        "displayName": "Fortune 3",
-        "cost": 10,
-        "currency": "Gold Coins",
-        "currencyItemId": "economy:creepercoin",
-        "amountReceived": 0
-      },
-      {
-        "id": "minecraft:stone",
-        "displayName": "Silk Touch",
-        "cost": 8,
-        "currency": "Gold Coins",
-        "currencyItemId": "economy:creepercoin",
-        "amountReceived": 0
-      },
-      {
-        "id": "minecraft:stone",
-        "displayName": "Respiration 3",
-        "cost": 10,
-        "currency": "Gold Coins",
-        "currencyItemId": "economy:creepercoin",
-        "amountReceived": 0
-      },
-      {
-        "id": "minecraft:enchanted_book",
-        "displayName": "Aqua Affinity",
-        "cost": 8,
-        "currency": "Gold Coins",
-        "currencyItemId": "economy:creepercoin",
-        "amountReceived": 0
-      },
-      {
-        "id": "minecraft:enchanted_book",
-        "displayName": "Enchanted Book - Lure 3",
-        "cost": 10,
-        "currency": "Gold Coins",
-        "currencyItemId": "economy:creepercoin",
-        "amountReceived": 0
-      },
-      {
-        "id": "minecraft:enchanted_book",
-        "displayName": "Enchanted Book - Luck of the Sea 3",
-        "cost": 10,
-        "currency": "Gold Coins",
-        "currencyItemId": "economy:creepercoin",
-        "amountReceived": 0
-      },
-      {
-        "id": "minecraft:enchanted_book",
-        "displayName": "Enchanted Book - Efficiency 4",
-        "cost": 5,
-        "currency": "Gold Coins",
-        "currencyItemId": "economy:creepercoin",
-        "amountReceived": 0
-      },
-      {
-        "id": "minecraft:enchanted_book",
-        "displayName": "Enchanted Book - Mending",
-        "cost": 10,
-        "currency": "Gold Coins",
-        "currencyItemId": "economy:creepercoin",
-        "amountReceived": 0
-      },
-      {
-        "id": "rats:rat_upgrade_damage_protection",
-        "displayName": "Protection 4",
-        "cost": 10,
-        "currency": "Gold Coins",
-        "currencyItemId": "economy:creepercoin",
-        "amountReceived": 0
-      },
-      {
-        "id": "ars_nouveau:glyph_fortune",
-        "displayName": "Fortune 3",
-        "cost": 10,
-        "currency": "Gold Coins",
-        "currencyItemId": "economy:creepercoin",
-        "amountReceived": 0
-      },
-      {
-        "id": "biomesoplenty:glowworm_silk",
-        "displayName": "Silk Touch",
-        "cost": 8,
-        "currency": "Gold Coins",
-        "currencyItemId": "economy:creepercoin",
-        "amountReceived": 0
-      },
-      {
-        "id": "minecraft:enchanted_book",
-        "displayName": "Aqua Affinity",
-        "cost": 8,
-        "currency": "Gold Coins",
-        "currencyItemId": "economy:creepercoin",
-        "amountReceived": 0
-      },
-      {
-        "id": "minecraft:enchanted_book",
-        "displayName": "Unbreaking 3",
-        "cost": 8,
-        "currency": "Gold Coins",
-        "currencyItemId": "economy:creepercoin",
-        "amountReceived": 0
-      },
-      {
-        "id": "minecraft:enchanted_book",
-        "displayName": "Respiration 3",
-        "cost": 10,
-        "currency": "Gold Coins",
-        "currencyItemId": "economy:creepercoin",
-        "amountReceived": 0
-      },
-      {
-        "id": "minecraft:enchanted_book",
-        "displayName": "Aqua Affinity",
-        "cost": 8,
-        "currency": "Gold Coins",
-        "currencyItemId": "economy:creepercoin",
-        "amountReceived": 0
       }
     ]
   },
@@ -5278,8 +5099,8 @@
     "name": "Nether Stars!!",
     "owner": "Unknown",
     "location": {
-      "x": 0,
-      "z": 0
+      "x": -197,
+      "z": -301
     },
     "items": [
       {
@@ -5387,12 +5208,12 @@
     ]
   },
   {
-    "id": "record-shop",
-    "name": "Record Shop",
+    "id": "chisuke-record-shop",
+    "name": "Chisuke's Records",
     "owner": "Unknown",
     "location": {
-      "x": 0,
-      "z": 0
+      "x": -207,
+      "z": -363
     },
     "items": [
       {
@@ -5418,8 +5239,8 @@
     "name": "Rock and Stone",
     "owner": "Unknown",
     "location": {
-      "x": 0,
-      "z": 0
+      "x": -108,
+      "z": -441
     },
     "items": [
       {
@@ -5549,12 +5370,12 @@
     "name": "Sidus Treasures  ",
     "owner": "Unknown",
     "location": {
-      "x": 0,
-      "z": 0
+      "x": -78,
+      "z": -296
     },
     "items": [
       {
-        "id": "minecraft:stone",
+        "id": "minecraft:honey_bottle",
         "displayName": "Bottle o' Enchanting",
         "cost": 8,
         "currency": "Gold Coins",
@@ -5714,8 +5535,8 @@
     "name": "The Forge",
     "owner": "Unknown",
     "location": {
-      "x": 0,
-      "z": 0
+      "x": -33,
+      "z": -520
     },
     "items": [
       {
@@ -5869,8 +5690,8 @@
     "name": "Under the Sea",
     "owner": "Unknown",
     "location": {
-      "x": 0,
-      "z": 0
+      "x": -210,
+      "z": -283
     },
     "items": [
       {
@@ -6108,12 +5929,12 @@
     ]
   },
   {
-    "id": "waystone-store",
-    "name": "Waystone Store",
+    "id": "chisuke-waystone-store",
+    "name": "Chisuke's Waystone Store",
     "owner": "Unknown",
     "location": {
-      "x": 0,
-      "z": 0
+      "x": -186,
+      "z": -375
     },
     "items": [
       {
@@ -6133,5 +5954,225 @@
         "amountReceived": 1
       }
     ]
+  },
+  {
+    "id": "swish-pickles-and-fishes",
+    "name": "Mr Swish's Pickles and Fishes",
+    "owner": "MourningTide",
+    "location": {
+      "x": -67,
+      "z": -387
+    },
+    "items": []
+  },
+  {
+    "id": "heart-and-feather-cookery",
+    "name": "The Heart and Feather Cookery",
+    "owner": "MourningTide",
+    "location": {
+      "x": -33,
+      "z": -403
+    },
+    "items": []
+  },
+  {
+    "id": "chisuke-milk",
+    "name": "Chisuke's Milk",
+    "owner": "Fuushu",
+    "location": {
+      "x": 6,
+      "z": -424
+    },
+    "items": []
+  },
+  {
+    "id": "chisuke-butcher",
+    "name": "Chisuke's Butcher Shop",
+    "owner": "Fuushu",
+    "location": {
+      "x": 6,
+      "z": -433
+    },
+    "items": []
+  },
+  {
+    "id": "sunny-petal",
+    "name": "Sunny's Petal Shop",
+    "owner": "Sunny",
+    "location": {
+      "x": 82,
+      "z": -472
+    },
+    "items": []
+  },
+  {
+    "id": "katbug-bakery",
+    "name": "Katbug's Bakery",
+    "owner": "Unknown",
+    "location": {
+      "x": -140,
+      "z": -500
+    },
+    "items": []
+  },
+  {
+    "id": "bella-cheese-emporium",
+    "name": "Bella's Cheese Emporium",
+    "owner": "Bella",
+    "location": {
+      "x": -196,
+      "z": -503
+    },
+    "items": []
+  },
+  {
+    "id": "nats-grilltopia",
+    "name": "Nat's GrillTopia",
+    "owner": "Unknown",
+    "location": {
+      "x": -211,
+      "z": -459
+    },
+    "items": []
+  },
+  {
+    "id": "the-mystic-tome",
+    "name": "The Mystic Tome",
+    "owner": "Unknown",
+    "location": {
+      "x": -225,
+      "z": -501
+    },
+    "items": []
+  },
+  {
+    "id": "girlyPop-wallmart",
+    "name": "GirlyPop Wallmart",
+    "owner": "Unknown",
+    "location": {
+      "x": -237,
+      "z": -441
+    },
+    "items": []
+  },
+  {
+    "id": "weed-van",
+    "name": "Weed Van",
+    "owner": "Unknown",
+    "location": {
+      "x": -175,
+      "z": -329
+    },
+    "items": []
+  },
+  {
+    "id": "bees-hunger",
+    "name": "Bee's Hunger",
+    "owner": "Unknown",
+    "location": {
+      "x": -191,
+      "z": -326
+    },
+    "items": []
+  },
+  {
+    "id": "bees-tea-parlor",
+    "name": "Bee's Tea Parlor",
+    "owner": "Unknown",
+    "location": {
+      "x": -183,
+      "z": -306
+    },
+    "items": []
+  },
+  {
+    "id": "ice-cream-parlor",
+    "name": "Ice Cream Parlor",
+    "owner": "Unknown",
+    "location": {
+      "x": -182,
+      "z": -266
+    },
+    "items": []
+  },
+  {
+    "id": "toni-tortellini",
+    "name": "Toni's Tortellini",
+    "owner": "Psyducksyd",
+    "location": {
+      "x": -202,
+      "z": -261
+    },
+    "items": []
+  },
+  {
+    "id": "taco-bell",
+    "name": "Taco Bell",
+    "owner": "Levinuxs",
+    "location": {
+      "x": -206,
+      "z": -234
+    },
+    "items": []
+  },
+  {
+    "id": "marijuana-dispensery",
+    "name": "Marijuana Dispensery",
+    "owner": "Levinuxs",
+    "location": {
+      "x": -209,
+      "z": -218
+    },
+    "items": []
+  },
+  {
+    "id": "gloomy-gardens",
+    "name": "Gloomy Gardens",
+    "owner": "Engineer_Witch",
+    "location": {
+      "x": -260,
+      "z": -167
+    },
+    "items": []
+  },
+  {
+    "id": "black-market",
+    "name": "(Carrot Shop) Black Market",
+    "owner": "Unknown",
+    "location": {
+      "x": -118,
+      "z": -421
+    },
+    "items": []
+  },
+  {
+    "id": "bottled-wine",
+    "name": "Bottled Wine",
+    "owner": "Unknown",
+    "location": {
+      "x": -145,
+      "z": -429
+    },
+    "items": []
+  },
+  {
+    "id": "freddy",
+    "name": "Freddy Fazbear's Pizzaria",
+    "owner": "Unknown",
+    "location": {
+      "x": -267,
+      "z": -553
+    },
+    "items": []
+  },
+  {
+    "id": "pipis",
+    "name": "Spamtom G. Spemton's PIPIS Emporium",
+    "owner": "Unknown",
+    "location": {
+      "x": -183,
+      "z": -458
+    },
+    "items": []
   }
 ]
