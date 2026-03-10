@@ -14,14 +14,13 @@ interface SearchBarProps {
  */
 export function SearchBar({ criteria, onChange, shopOptions = [], modOptions = [] }: SearchBarProps) {
   const update = (field: keyof SearchCriteria, raw: string) => {
-    // trim whitespace so a lone space doesn't count as criteria; also
-    // propagate the trimmed value so the input stays clean.
+    // trim whitespace so a lone space doesn't count as criteria.
     const value = raw.trim()
 
     const next: SearchCriteria = { ...criteria, [field]: value }
+    // preserve shop (especially when selected via map) while typing text
     if (field === "text") {
-      next.shop = ""
-      next.mod = ""
+      next.text = value
     }
     onChange(next)
   }

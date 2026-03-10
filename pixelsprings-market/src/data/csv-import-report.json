@@ -1,0 +1,4402 @@
+[
+  {
+    "shopCsv": "Ars Nouveau Supplies.csv",
+    "displayName": "Source Jar - Full",
+    "currency": "Gold Coins",
+    "cost": 25,
+    "resolvedId": "ars_nouveau:source_jar",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Ars Nouveau Supplies.csv",
+    "displayName": "Abjuration Essence",
+    "currency": "Gold Coins",
+    "cost": 5,
+    "resolvedId": "ars_nouveau:abjuration_essence",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Ars Nouveau Supplies.csv",
+    "displayName": "Manipulation Essence",
+    "currency": "Gold Coins",
+    "cost": 5,
+    "resolvedId": "ars_nouveau:manipulation_essence",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Ars Nouveau Supplies.csv",
+    "displayName": "Source Gem",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "ars_nouveau:source_gem",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Ars Nouveau Supplies.csv",
+    "displayName": "Warp Scroll",
+    "currency": "Gold Coins",
+    "cost": 5,
+    "resolvedId": "ars_nouveau:warp_scroll",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Ars Nouveau Supplies.csv",
+    "displayName": "Fire Essence",
+    "currency": "Gold Coins",
+    "cost": 5,
+    "resolvedId": "ars_nouveau:fire_essence",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Ars Nouveau Supplies.csv",
+    "displayName": "Conjuration Essence",
+    "currency": "Gold Coins",
+    "cost": 5,
+    "resolvedId": "ars_nouveau:conjuration_essence",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Ars Nouveau Supplies.csv",
+    "displayName": "Earth Essence",
+    "currency": "Gold Coins",
+    "cost": 5,
+    "resolvedId": "ars_nouveau:earth_essence",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Ars Nouveau Supplies.csv",
+    "displayName": "Sourcestone",
+    "currency": "Gold Coins",
+    "cost": 20,
+    "resolvedId": "ars_nouveau:sourcestone",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Ars Nouveau Supplies.csv",
+    "displayName": "Vexing Archwood Log",
+    "currency": "Gold Coins",
+    "cost": 3,
+    "resolvedId": "ars_nouveau:blue_archwood_log",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Ars Nouveau Supplies.csv",
+    "displayName": "Flourishing Archwood Log",
+    "currency": "Gold Coins",
+    "cost": 3,
+    "resolvedId": "ars_nouveau:blue_archwood_log",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Ars Nouveau Supplies.csv",
+    "displayName": "Blazing Archwood Log",
+    "currency": "Gold Coins",
+    "cost": 3,
+    "resolvedId": "ars_nouveau:blue_archwood_log",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Ars Nouveau Supplies.csv",
+    "displayName": "Cascading Archwood Log",
+    "currency": "Gold Coins",
+    "cost": 3,
+    "resolvedId": "ars_nouveau:blue_archwood_log",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Ars Nouveau Supplies.csv",
+    "displayName": "Magebloom",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "ars_nouveau:magebloom",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Ars Nouveau Supplies.csv",
+    "displayName": "Sourceberry",
+    "currency": "Gold Coins",
+    "cost": 2,
+    "resolvedId": "ars_nouveau:sourceberry_bush",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Ars Nouveau Threads.csv",
+    "displayName": "Magebloom Fiber",
+    "currency": "Gold Coins",
+    "cost": 5,
+    "resolvedId": "ars_nouveau:magebloom_fiber",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Ars Nouveau Threads.csv",
+    "displayName": "Blank Thread",
+    "currency": "Gold Coins",
+    "cost": 2,
+    "resolvedId": "ars_nouveau:blank_thread",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Ars Nouveau Threads.csv",
+    "displayName": "Yellow Spool of Thread",
+    "currency": "Gold Coins",
+    "cost": 2,
+    "resolvedId": "cluttered:spool_of_thread_yellow",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Ars Nouveau Threads.csv",
+    "displayName": "Green Spool of Thread",
+    "currency": "Gold Coins",
+    "cost": 2,
+    "resolvedId": "cluttered:spool_of_thread_green",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Australia Post.csv",
+    "displayName": "Courier Package",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "hexerei:courier_package",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Australia Post.csv",
+    "displayName": "Courier Letter",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "hexerei:courier_letter",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Australia Post.csv",
+    "displayName": "Snailbox",
+    "currency": "Gold Coins",
+    "cost": 4,
+    "resolvedId": "minecraft:stone",
+    "unresolved": true
+  },
+  {
+    "shopCsv": "Australia Post.csv",
+    "displayName": "Envelope",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "snailmail:envelope_open",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Australia Post.csv",
+    "displayName": "Stamp",
+    "currency": "Gold Coins",
+    "cost": 2,
+    "resolvedId": "snailmail:stamp",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Avas Tradehall.csv",
+    "displayName": "Emerald",
+    "currency": "Gold Coins",
+    "cost": 7,
+    "resolvedId": "minecraft:emerald",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Avas Tradehall.csv",
+    "displayName": "Book",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "ftbquests:book",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Avas Tradehall.csv",
+    "displayName": "Silk Touch - Enchantment Book",
+    "currency": "Emerald",
+    "cost": 8,
+    "resolvedId": "ftbquests:book",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Avas Tradehall.csv",
+    "displayName": "Oak Bookshelf",
+    "currency": "Emerald",
+    "cost": 9,
+    "resolvedId": "chipped:oak_bookshelf",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Avas Tradehall.csv",
+    "displayName": "Mending - Enchantment Book",
+    "currency": "Emerald",
+    "cost": 18,
+    "resolvedId": "ftbquests:book",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Avas Tradehall.csv",
+    "displayName": "Charismatic II",
+    "currency": "Emerald",
+    "cost": 56,
+    "resolvedId": "minecraft:enchanted_book",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Avas Tradehall.csv",
+    "displayName": "Bane of Arthropods V",
+    "currency": "Emerald",
+    "cost": 18,
+    "resolvedId": "ferdinandsflowers:wolfs_bane",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Avas Tradehall.csv",
+    "displayName": "Multishot",
+    "currency": "Emerald",
+    "cost": 5,
+    "resolvedId": "minecraft:enchanted_book",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Avas Tradehall.csv",
+    "displayName": "Infinity",
+    "currency": "Emerald",
+    "cost": 9,
+    "resolvedId": "sophisticatedstorage:infinity_upgrade",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Avas Tradehall.csv",
+    "displayName": "Aqua Affinity",
+    "currency": "Emerald",
+    "cost": 5,
+    "resolvedId": "minecraft:enchanted_book",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Avas Tradehall.csv",
+    "displayName": "Smite V",
+    "currency": "Emerald",
+    "cost": 40,
+    "resolvedId": "minecraft:enchanted_book",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Avas Tradehall.csv",
+    "displayName": "Knockback II",
+    "currency": "Emerald",
+    "cost": 29,
+    "resolvedId": "botania:knockback_belt",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Avas Tradehall.csv",
+    "displayName": "Feather Falling IV",
+    "currency": "Emerald",
+    "cost": 17,
+    "resolvedId": "minecraft:feather",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Avas Tradehall.csv",
+    "displayName": "Fire Aspect II",
+    "currency": "Emerald",
+    "cost": 26,
+    "resolvedId": "minecraft:dead_fire_coral_block",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Avas Tradehall.csv",
+    "displayName": "Sweeping Edge III",
+    "currency": "Emerald",
+    "cost": 25,
+    "resolvedId": "framedblocks:framed_slope_edge",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Avas Tradehall.csv",
+    "displayName": "Power III",
+    "currency": "Emerald",
+    "cost": 40,
+    "resolvedId": "botania:lens_power",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Avas Tradehall.csv",
+    "displayName": "Reactive III",
+    "currency": "Emerald",
+    "cost": 14,
+    "resolvedId": "mysticalagriculture:absorption_iii_augment",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Avas Tradehall.csv",
+    "displayName": "Luck of the Sea III",
+    "currency": "Emerald",
+    "cost": 45,
+    "resolvedId": "minecraft:heart_of_the_sea",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Avas Tradehall.csv",
+    "displayName": "Riptide III",
+    "currency": "Emerald",
+    "cost": 26,
+    "resolvedId": "mysticalagriculture:absorption_iii_augment",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Avas Tradehall.csv",
+    "displayName": "Thorns III",
+    "currency": "Emerald",
+    "cost": 22,
+    "resolvedId": "mysticalagriculture:absorption_iii_augment",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Avas Tradehall.csv",
+    "displayName": "Loyalty III",
+    "currency": "Emerald",
+    "cost": 40,
+    "resolvedId": "mysticalagriculture:absorption_iii_augment",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Avas Tradehall.csv",
+    "displayName": "Projectile Protection IV",
+    "currency": "Emerald",
+    "cost": 16,
+    "resolvedId": "supplementaries:bomb_projectile",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Avas Tradehall.csv",
+    "displayName": "Looting III",
+    "currency": "Emerald",
+    "cost": 30,
+    "resolvedId": "mysticalagriculture:absorption_iii_augment",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Avas Tradehall.csv",
+    "displayName": "Impaling V",
+    "currency": "Emerald",
+    "cost": 43,
+    "resolvedId": "minecraft:enchanted_book",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Avas Tradehall.csv",
+    "displayName": "Efficiency V",
+    "currency": "Emerald",
+    "cost": 57,
+    "resolvedId": "botania:lens_efficiency",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Avas Tradehall.csv",
+    "displayName": "Soul Siphoner V",
+    "currency": "Emerald",
+    "cost": 35,
+    "resolvedId": "minecraft:soul_sand",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Avas Tradehall.csv",
+    "displayName": "Unbreaking III",
+    "currency": "Emerald",
+    "cost": 29,
+    "resolvedId": "mysticalagriculture:absorption_iii_augment",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Avas Tradehall.csv",
+    "displayName": "Cherry Log",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "minecraft:cherry_log",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Avas Tradehall.csv",
+    "displayName": "Ink Sac",
+    "currency": "Gold Coins",
+    "cost": 3,
+    "resolvedId": "minecraft:ink_sac",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Avas Tradehall.csv",
+    "displayName": "Paper",
+    "currency": "Gold Coins",
+    "cost": 2,
+    "resolvedId": "minecraft:paper",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Avas Tradehall.csv",
+    "displayName": "Spruce Log",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "minecraft:spruce_log",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Avas Tradehall.csv",
+    "displayName": "Oak Log",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "minecraft:oak_log",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Avas Tradehall.csv",
+    "displayName": "Clay Ball",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "minecraft:clay_ball",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Avas Tradehall.csv",
+    "displayName": "Rabbit Hide",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "minecraft:rabbit_hide",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Avas Tradehall.csv",
+    "displayName": "Raw Rabbit",
+    "currency": "Gold Coins",
+    "cost": 4,
+    "resolvedId": "barbequesdelight:raw_rabbit_skewer",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Avas Tradehall.csv",
+    "displayName": "Glow Ink Sac",
+    "currency": "Gold Coins",
+    "cost": 10,
+    "resolvedId": "minecraft:glow_ink_sac",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Avas Tradehall.csv",
+    "displayName": "Leather",
+    "currency": "Gold Coins",
+    "cost": 6,
+    "resolvedId": "minecraft:leather",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Avas Tradehall.csv",
+    "displayName": "Bricks",
+    "currency": "Gold Coins",
+    "cost": 6,
+    "resolvedId": "minecraft:bricks",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Avas Tradehall.csv",
+    "displayName": "Block of Quartz",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "minecraft:chiseled_quartz_block",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Avas Tradehall.csv",
+    "displayName": "Redstone Dust",
+    "currency": "Gold Coins",
+    "cost": 2,
+    "resolvedId": "minecraft:redstone_ore",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Concrete - All Colours",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "minecraft:white_concrete",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Concrete Powder - All Colours",
+    "currency": "Gold Coins",
+    "cost": 12,
+    "resolvedId": "minecraft:white_concrete_powder",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Terracotta - All Colours",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "minecraft:white_terracotta",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Dye - All Colours",
+    "currency": "Gold Coins",
+    "cost": 4,
+    "resolvedId": "minecraft:white_dye",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Wool - All Colours",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "minecraft:white_wool",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Glass (Clear/Stained) - All Colours",
+    "currency": "Gold Coins",
+    "cost": 12,
+    "resolvedId": "candlelight:glass",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Coral Blocks - Various Types",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "minecraft:dead_tube_coral_block",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Calcite",
+    "currency": "Gold Coins",
+    "cost": 12,
+    "resolvedId": "minecraft:calcite",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Dripstone Block",
+    "currency": "Gold Coins",
+    "cost": 12,
+    "resolvedId": "minecraft:dripstone_block",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Jaspar",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "quark:jasper",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Shale",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "quark:shale",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Prismarine",
+    "currency": "Gold Coins",
+    "cost": 12,
+    "resolvedId": "minecraft:prismarine",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Prismarine Bricks",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "chipped:prismarine_bricks",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Dark Prismarine",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "minecraft:dark_prismarine",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Sea Lantern",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "minecraft:sea_lantern",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Stone",
+    "currency": "Gold Coins",
+    "cost": 12,
+    "resolvedId": "minecraft:stone",
+    "unresolved": true
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Cobble Stone",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "minecraft:stone",
+    "unresolved": true
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Mossy Cobble Stone",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "minecraft:infested_mossy_stone_bricks",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Stone Bricks",
+    "currency": "Gold Coins",
+    "cost": 12,
+    "resolvedId": "minecraft:stone_bricks",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Mossy Stone Bricks",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "minecraft:mossy_stone_bricks",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Tuff",
+    "currency": "Gold Coins",
+    "cost": 12,
+    "resolvedId": "minecraft:tuff",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Cobbled Deepslate",
+    "currency": "Gold Coins",
+    "cost": 12,
+    "resolvedId": "minecraft:cobbled_deepslate",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Deepslate",
+    "currency": "Gold Coins",
+    "cost": 12,
+    "resolvedId": "minecraft:deepslate",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Dirt",
+    "currency": "Gold Coins",
+    "cost": 4,
+    "resolvedId": "minecraft:dirt",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Grass Block",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "minecraft:grass_block",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Podzol",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "minecraft:podzol",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Mycelium",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "minecraft:mycelium",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Sand",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "minecraft:sand",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Sandstone",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "minecraft:sandstone",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Red Sand",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "minecraft:red_sand",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Red Sandstone",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "minecraft:red_sandstone",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Coarse Dirt",
+    "currency": "Gold Coins",
+    "cost": 12,
+    "resolvedId": "minecraft:coarse_dirt",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Mud",
+    "currency": "Gold Coins",
+    "cost": 12,
+    "resolvedId": "minecraft:mud",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Packed Mud",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "minecraft:packed_mud",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Gravel",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "minecraft:gravel",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Clay",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "minecraft:clay",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Andesite",
+    "currency": "Gold Coins",
+    "cost": 12,
+    "resolvedId": "minecraft:andesite",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Diorite",
+    "currency": "Gold Coins",
+    "cost": 12,
+    "resolvedId": "minecraft:diorite",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Granite",
+    "currency": "Gold Coins",
+    "cost": 12,
+    "resolvedId": "minecraft:granite",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Mahogany Log (Hexerei)",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "hexerei:mahogany_log",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Witch Hazel Log",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "hexerei:witch_hazel_log",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Willow Log (Hexerei)",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "cluttered:willow_log",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Dead Log",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "biomesoplenty:dead_log",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Umbran Log",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "biomesoplenty:umbran_log",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Trumpet Log",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "minecraft:oak_log",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Ashen Log",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "minecraft:oak_log",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Azalea Log",
+    "currency": "Gold Coins",
+    "cost": 20,
+    "resolvedId": "quark:azalea_log",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Oak Log",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "minecraft:oak_log",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Spruce Log",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "minecraft:spruce_log",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Birch Log",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "minecraft:birch_log",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Jungle Log",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "minecraft:jungle_log",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Acacia Log",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "minecraft:acacia_log",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Dark Oak Log",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "minecraft:dark_oak_log",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Mangrove Log",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "minecraft:mangrove_log",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Cherry Log",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "minecraft:cherry_log",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Fir Log",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "biomesoplenty:fir_log",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Redwood Log",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "biomesoplenty:redwood_log",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Mahogany Log (Biomes O' Plenty)",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "hexerei:mahogany_log",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Hellbark Log",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "biomesoplenty:hellbark_log",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Jacaranda Log",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "biomesoplenty:jacaranda_log",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Palm Log",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "beachparty:palm_log",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Willow Log (Biome O' Plenty)",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "cluttered:willow_log",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Building Materials.csv",
+    "displayName": "Magic Log",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "biomesoplenty:magic_log",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Casss Essentials.csv",
+    "displayName": "Shulker Box",
+    "currency": "Gold Coins",
+    "cost": 4,
+    "resolvedId": "sophisticatedstorage:shulker_box",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Casss Essentials.csv",
+    "displayName": "Glow Ink Sac",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "minecraft:glow_ink_sac",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Casss Essentials.csv",
+    "displayName": "Ghast Tears",
+    "currency": "Gold Coins",
+    "cost": 12,
+    "resolvedId": "minecraft:ghast_tear",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Casss Essentials.csv",
+    "displayName": "Moss Blocks",
+    "currency": "Silver Coins",
+    "cost": 8,
+    "resolvedId": "minecraft:moss_carpet",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Casss Essentials.csv",
+    "displayName": "Dirt Blocks",
+    "currency": "Silver Coins",
+    "cost": 2,
+    "resolvedId": "minecraft:dirt",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Casss Essentials.csv",
+    "displayName": "Stone",
+    "currency": "Silver Coins",
+    "cost": 2,
+    "resolvedId": "minecraft:stone",
+    "unresolved": true
+  },
+  {
+    "shopCsv": "Casss Essentials.csv",
+    "displayName": "Framed Cube",
+    "currency": "Silver Coins",
+    "cost": 4,
+    "resolvedId": "framedblocks:framed_cube",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Casss Essentials.csv",
+    "displayName": "Andesite",
+    "currency": "Silver Coins",
+    "cost": 2,
+    "resolvedId": "minecraft:andesite",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Casss Essentials.csv",
+    "displayName": "Diorite",
+    "currency": "Silver Coins",
+    "cost": 2,
+    "resolvedId": "minecraft:diorite",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Casss Essentials.csv",
+    "displayName": "Granite",
+    "currency": "Silver Coins",
+    "cost": 2,
+    "resolvedId": "minecraft:granite",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Casss Essentials.csv",
+    "displayName": "Forgiveness! - Blessed Book",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "ftbquests:book",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Chinese Market Fish Monger.csv",
+    "displayName": "Perch",
+    "currency": "Silver Coins",
+    "cost": 3,
+    "resolvedId": "aquaculture:perch",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Chinese Market Fish Monger.csv",
+    "displayName": "Fish Oil",
+    "currency": "Silver Coins",
+    "cost": 2,
+    "resolvedId": "wildernature:fish_oil",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Chinese Market Fish Monger.csv",
+    "displayName": "Bluegill",
+    "currency": "Silver Coins",
+    "cost": 3,
+    "resolvedId": "aquaculture:bluegill",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Chinese Market Fish Monger.csv",
+    "displayName": "Atlantic Herring",
+    "currency": "Silver Coins",
+    "cost": 3,
+    "resolvedId": "aquaculture:atlantic_herring",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Chinese Market Fish Monger.csv",
+    "displayName": "Brown Trout",
+    "currency": "Silver Coins",
+    "cost": 3,
+    "resolvedId": "aquaculture:brown_trout",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Chinese Market Fish Monger.csv",
+    "displayName": "Minnow",
+    "currency": "Silver Coins",
+    "cost": 3,
+    "resolvedId": "aquaculture:minnow",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Chinese Market Fish Monger.csv",
+    "displayName": "Smallmouth Bass",
+    "currency": "Silver Coins",
+    "cost": 3,
+    "resolvedId": "aquaculture:smallmouth_bass",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Chinese Market Fish Monger.csv",
+    "displayName": "Guardian",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "butcher:guardian",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Chinese Market Fish Monger.csv",
+    "displayName": "Jellyfish",
+    "currency": "Silver Coins",
+    "cost": 3,
+    "resolvedId": "aquaculture:jellyfish",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Chinese Market Fish Monger.csv",
+    "displayName": "Shrimp",
+    "currency": "Silver Coins",
+    "cost": 3,
+    "resolvedId": "croptopia:shrimp",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Chinese Market Fish Monger.csv",
+    "displayName": "Muskellunge",
+    "currency": "Silver Coins",
+    "cost": 3,
+    "resolvedId": "aquaculture:muskellunge",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Chinese Market Fish Monger.csv",
+    "displayName": "Anchony",
+    "currency": "Silver Coins",
+    "cost": 3,
+    "resolvedId": "croptopia:anchovy",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Chinese Market Fish Monger.csv",
+    "displayName": "Oyster",
+    "currency": "Silver Coins",
+    "cost": 3,
+    "resolvedId": "croptopia:oyster",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Chinese Market Fish Monger.csv",
+    "displayName": "Gar",
+    "currency": "Silver Coins",
+    "cost": 3,
+    "resolvedId": "aquaculture:gar",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Chinese Market Fish Monger.csv",
+    "displayName": "Clam",
+    "currency": "Silver Coins",
+    "cost": 3,
+    "resolvedId": "croptopia:clam",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Chinese Market Fish Monger.csv",
+    "displayName": "Sea Lettuce",
+    "currency": "Silver Coins",
+    "cost": 3,
+    "resolvedId": "croptopia:sea_lettuce",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Chinese Market Fish Monger.csv",
+    "displayName": "Fishing Line",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "aquaculture:fishing_line",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Chinese Market Fish Monger.csv",
+    "displayName": "Pufferfish",
+    "currency": "Silver Coins",
+    "cost": 3,
+    "resolvedId": "minecraft:pufferfish",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Chinese Market Fish Monger.csv",
+    "displayName": "Tropical Fish",
+    "currency": "Silver Coins",
+    "cost": 3,
+    "resolvedId": "minecraft:tropical_fish",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Chinese Market Fish Monger.csv",
+    "displayName": "Fishing Net",
+    "currency": "Silver Coins",
+    "cost": 2,
+    "resolvedId": "lilis_lucky_lures:fishing_net",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Chinese Market Fish Monger.csv",
+    "displayName": "Fishing Lure",
+    "currency": "Silver Coins",
+    "cost": 3,
+    "resolvedId": "minecraft:fishing_rod",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Chinese Market Fish Monger.csv",
+    "displayName": "Raw Salmon",
+    "currency": "Silver Coins",
+    "cost": 1,
+    "resolvedId": "barbequesdelight:raw_salmon_skewer",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Chinese Market Fish Monger.csv",
+    "displayName": "Raw Cod",
+    "currency": "Silver Coins",
+    "cost": 1,
+    "resolvedId": "barbequesdelight:raw_cod_skewer",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Credible Creedences Wagon of Wonderment.csv",
+    "displayName": "Chorus Fruit",
+    "currency": "Gold Coins",
+    "cost": 0,
+    "resolvedId": "minecraft:chorus_fruit",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Credible Creedences Wagon of Wonderment.csv",
+    "displayName": "Bolloom",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "endergetic:bolloom_bud",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Credible Creedences Wagon of Wonderment.csv",
+    "displayName": "Bolloom Bud",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "endergetic:bolloom_bud",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Credible Creedences Wagon of Wonderment.csv",
+    "displayName": "Acidian Lantern",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "endergetic:acidian_lantern",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Credible Creedences Wagon of Wonderment.csv",
+    "displayName": "Poise Stem",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "endergetic:poise_stem",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Credible Creedences Wagon of Wonderment.csv",
+    "displayName": "Glowing Poise Stem",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "endergetic:glowing_poise_stem",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Credible Creedences Wagon of Wonderment.csv",
+    "displayName": "Resin Brick",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "minecraft:resin_brick",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Credible Creedences Wagon of Wonderment.csv",
+    "displayName": "Pale Hanging Moss",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "minecraft:pale_hanging_moss",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Credible Creedences Wagon of Wonderment.csv",
+    "displayName": "Pale Moss Block",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "minecraft:pale_moss_block",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Credible Creedences Wagon of Wonderment.csv",
+    "displayName": "Pale Oak Log",
+    "currency": "Gold Coins",
+    "cost": 32,
+    "resolvedId": "minecraft:pale_oak_log",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Quick Charge III",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "minecraft:fire_charge",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Multishot",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "minecraft:enchanted_book",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Piercing IV",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "minecraft:enchanted_book",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Flame",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "ferdinandsflowers:australian_flame_pea",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Power V",
+    "currency": "Money",
+    "cost": 2,
+    "resolvedId": "botania:lens_power",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Punch II",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "minecraft:enchanted_book",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Infinity",
+    "currency": "Money",
+    "cost": 2,
+    "resolvedId": "sophisticatedstorage:infinity_upgrade",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Loyalty III",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "mysticalagriculture:absorption_iii_augment",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Channeling",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "minecraft:enchanted_book",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Riptide III",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "mysticalagriculture:absorption_iii_augment",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Impaling V",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "minecraft:enchanted_book",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Mending",
+    "currency": "Money",
+    "cost": 3,
+    "resolvedId": "minecraft:enchanted_book",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Unbreaking III",
+    "currency": "Money",
+    "cost": 3,
+    "resolvedId": "mysticalagriculture:absorption_iii_augment",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Protection IV",
+    "currency": "Money",
+    "cost": 3,
+    "resolvedId": "rats:rat_upgrade_damage_protection",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Thorns III",
+    "currency": "Money",
+    "cost": 2,
+    "resolvedId": "mysticalagriculture:absorption_iii_augment",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Aqua Affinity",
+    "currency": "Money",
+    "cost": 2,
+    "resolvedId": "minecraft:enchanted_book",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Blast Protection IV",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "minecraft:blast_furnace",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Projectile Protection",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "supplementaries:bomb_projectile",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Fire Protection IV",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "minecraft:dead_fire_coral_block",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Feather Falling IV",
+    "currency": "Money",
+    "cost": 2,
+    "resolvedId": "minecraft:feather",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Soul Speed III",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "mysticalagriculture:speed_iii_augment",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Depth Strider III",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "minecraft:strider_spawn_egg",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Swift Sneak III",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "mysticalagriculture:absorption_iii_augment",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Lure III",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "mysticalagriculture:absorption_iii_augment",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Luck of the Sea III",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "minecraft:heart_of_the_sea",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Sharpness V",
+    "currency": "Money",
+    "cost": 2,
+    "resolvedId": "minecraft:enchanted_book",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Looting III",
+    "currency": "Money",
+    "cost": 2,
+    "resolvedId": "mysticalagriculture:absorption_iii_augment",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Sweeping Edge III",
+    "currency": "Money",
+    "cost": 2,
+    "resolvedId": "framedblocks:framed_slope_edge",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Knockback II",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "botania:knockback_belt",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Silk Touch",
+    "currency": "Money",
+    "cost": 2,
+    "resolvedId": "biomesoplenty:glowworm_silk",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Fortune III",
+    "currency": "Money",
+    "cost": 2,
+    "resolvedId": "mysticalagriculture:absorption_iii_augment",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Efficiency V",
+    "currency": "Money",
+    "cost": 2,
+    "resolvedId": "botania:lens_efficiency",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Fire Aspect II",
+    "currency": "Money",
+    "cost": 2,
+    "resolvedId": "minecraft:dead_fire_coral_block",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Ancient Tome - Loyalty",
+    "currency": "Money",
+    "cost": 2,
+    "resolvedId": "quark:ancient_tome",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Ancient Tome - Riptide",
+    "currency": "Money",
+    "cost": 2,
+    "resolvedId": "quark:ancient_tome",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Ancient Tome - Impaling",
+    "currency": "Money",
+    "cost": 2,
+    "resolvedId": "quark:ancient_tome",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Ancient Tome - Thorns",
+    "currency": "Money",
+    "cost": 4,
+    "resolvedId": "quark:ancient_tome",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Ancient Tome - Feather Falling",
+    "currency": "Money",
+    "cost": 4,
+    "resolvedId": "quark:ancient_tome",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Ancient Tome - Knockback",
+    "currency": "Money",
+    "cost": 2,
+    "resolvedId": "quark:ancient_tome",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Punch",
+    "currency": "Money",
+    "cost": 4,
+    "resolvedId": "minecraft:enchanted_book",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Power",
+    "currency": "Money",
+    "cost": 4,
+    "resolvedId": "botania:lens_power",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Piercing",
+    "currency": "Money",
+    "cost": 4,
+    "resolvedId": "minecraft:enchanted_book",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Sweeping Edge",
+    "currency": "Money",
+    "cost": 4,
+    "resolvedId": "framedblocks:framed_slope_edge",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Smite",
+    "currency": "Money",
+    "cost": 2,
+    "resolvedId": "minecraft:enchanted_book",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Sharpness",
+    "currency": "Money",
+    "cost": 4,
+    "resolvedId": "minecraft:enchanted_book",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Lure",
+    "currency": "Money",
+    "cost": 3,
+    "resolvedId": "minecraft:enchanted_book",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Luck of the Sea",
+    "currency": "Money",
+    "cost": 3,
+    "resolvedId": "minecraft:heart_of_the_sea",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Efficiency",
+    "currency": "Money",
+    "cost": 4,
+    "resolvedId": "botania:lens_efficiency",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Unbreaking",
+    "currency": "Money",
+    "cost": 4,
+    "resolvedId": "minecraft:enchanted_book",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Fortune",
+    "currency": "Money",
+    "cost": 4,
+    "resolvedId": "ars_nouveau:glyph_fortune",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Looting",
+    "currency": "Money",
+    "cost": 4,
+    "resolvedId": "minecraft:enchanted_book",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Enchanted Books and Tomes.csv",
+    "displayName": "Fire Aspect",
+    "currency": "Money",
+    "cost": 3,
+    "resolvedId": "minecraft:dead_fire_coral_block",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "End Goods.csv",
+    "displayName": "Chorus Fruit",
+    "currency": "Gold Coins",
+    "cost": 0,
+    "resolvedId": "minecraft:chorus_fruit",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "End Goods.csv",
+    "displayName": "Bolloom",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "endergetic:bolloom_bud",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "End Goods.csv",
+    "displayName": "Bolloom Bud",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "endergetic:bolloom_bud",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "End Goods.csv",
+    "displayName": "Acidian Lantern",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "endergetic:acidian_lantern",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "End Goods.csv",
+    "displayName": "Poise Stem",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "endergetic:poise_stem",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "End Goods.csv",
+    "displayName": "Glowing Poise Stem",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "endergetic:glowing_poise_stem",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "End Goods.csv",
+    "displayName": "Poise Cluster",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "endergetic:poise_cluster",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "End Goods.csv",
+    "displayName": "Obsidian",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "minecraft:obsidian",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "End Goods.csv",
+    "displayName": "Myalite",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "quark:myalite",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "End Goods.csv",
+    "displayName": "Dusky Myalite",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "quark:dusky_myalite",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "End Goods.csv",
+    "displayName": "Myalite Crystal",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "quark:myalite_crystal",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "End Goods.csv",
+    "displayName": "Eumus",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "endergetic:eumus",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "End Goods.csv",
+    "displayName": "Ender Pearl",
+    "currency": "Gold Coins",
+    "cost": 2,
+    "resolvedId": "minecraft:ender_pearl",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "End Goods.csv",
+    "displayName": "Shulker Shell",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "minecraft:shulker_shell",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "End Goods.csv",
+    "displayName": "End Gobber Globette",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "gobber2:gobber2_globette_end",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "End Goods.csv",
+    "displayName": "End Glass",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "gobber2:gobber2_glass_end",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "End Goods.csv",
+    "displayName": "End Gobber Rod",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "minecraft:end_rod",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "End Goods.csv",
+    "displayName": "End Gobber Foo",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "gobber2:gobber2_foo_end",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "End Goods.csv",
+    "displayName": "Purpur Block",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "minecraft:purpur_block",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "End Goods.csv",
+    "displayName": "End Stone Bricks",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "chipped:end_stone_bricks",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "End Goods.csv",
+    "displayName": "Poismoss",
+    "currency": "Gold Coins",
+    "cost": 12,
+    "resolvedId": "endergetic:poismoss",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Essence Stand.csv",
+    "displayName": "Inferium Essence",
+    "currency": "Gold Coins",
+    "cost": 4,
+    "resolvedId": "mysticalagriculture:inferium_essence",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Essence Stand.csv",
+    "displayName": "Inferium Block",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "mysticalagriculture:inferium_block",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Essence Stand.csv",
+    "displayName": "Prudentium Essence",
+    "currency": "Gold Coins",
+    "cost": 12,
+    "resolvedId": "mysticalagriculture:prudentium_essence",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Essence Stand.csv",
+    "displayName": "Prudentium Block",
+    "currency": "Money",
+    "cost": 3,
+    "resolvedId": "mysticalagriculture:prudentium_block",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Eternal Steak.csv",
+    "displayName": "Eternal Steak",
+    "currency": "Money",
+    "cost": 4,
+    "resolvedId": "artifacts:eternal_steak",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Fishy Business.csv",
+    "displayName": "Minnow",
+    "currency": "Silver Coins",
+    "cost": 8,
+    "resolvedId": "aquaculture:minnow",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Fishy Business.csv",
+    "displayName": "Brown Trout",
+    "currency": "Silver Coins",
+    "cost": 8,
+    "resolvedId": "aquaculture:brown_trout",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Fishy Business.csv",
+    "displayName": "Smallmouth Bass",
+    "currency": "Silver Coins",
+    "cost": 8,
+    "resolvedId": "aquaculture:smallmouth_bass",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Fishy Business.csv",
+    "displayName": "Gar",
+    "currency": "Silver Coins",
+    "cost": 8,
+    "resolvedId": "aquaculture:gar",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Fishy Business.csv",
+    "displayName": "Carp",
+    "currency": "Silver Coins",
+    "cost": 8,
+    "resolvedId": "aquaculture:carp",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Fishy Business.csv",
+    "displayName": "Jellyfish",
+    "currency": "Silver Coins",
+    "cost": 8,
+    "resolvedId": "aquaculture:jellyfish",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Fishy Business.csv",
+    "displayName": "Puffer Fish",
+    "currency": "Gold Coins",
+    "cost": 4,
+    "resolvedId": "minecraft:tropical_fish_bucket",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Fishy Business.csv",
+    "displayName": "Perch",
+    "currency": "Silver Coins",
+    "cost": 8,
+    "resolvedId": "aquaculture:perch",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Fishy Business.csv",
+    "displayName": "Clam",
+    "currency": "Silver Coins",
+    "cost": 8,
+    "resolvedId": "croptopia:clam",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Fishy Business.csv",
+    "displayName": "Sea Lettuce",
+    "currency": "Silver Coins",
+    "cost": 8,
+    "resolvedId": "croptopia:sea_lettuce",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Fishy Business.csv",
+    "displayName": "Oyster",
+    "currency": "Silver Coins",
+    "cost": 8,
+    "resolvedId": "croptopia:oyster",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Fishy Business.csv",
+    "displayName": "Blugill",
+    "currency": "Silver Coins",
+    "cost": 8,
+    "resolvedId": "minecraft:stone",
+    "unresolved": true
+  },
+  {
+    "shopCsv": "Fishy Business.csv",
+    "displayName": "Atlantic Herring",
+    "currency": "Silver Coins",
+    "cost": 8,
+    "resolvedId": "aquaculture:atlantic_herring",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Fishy Business.csv",
+    "displayName": "Tropical Fish",
+    "currency": "Silver Coins",
+    "cost": 8,
+    "resolvedId": "minecraft:tropical_fish",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Fishy Business.csv",
+    "displayName": "Raw Cod",
+    "currency": "Silver Coins",
+    "cost": 8,
+    "resolvedId": "barbequesdelight:raw_cod_skewer",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Fishy Business.csv",
+    "displayName": "Box Turtle",
+    "currency": "Silver Coins",
+    "cost": 40,
+    "resolvedId": "aquaculture:box_turtle",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Fishy Business.csv",
+    "displayName": "Anchovy",
+    "currency": "Silver Coins",
+    "cost": 8,
+    "resolvedId": "croptopia:anchovy",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Fishy Business.csv",
+    "displayName": "Raw Salmon",
+    "currency": "Silver Coins",
+    "cost": 8,
+    "resolvedId": "barbequesdelight:raw_salmon_skewer",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Fishy Business.csv",
+    "displayName": "Crab",
+    "currency": "Silver Coins",
+    "cost": 8,
+    "resolvedId": "croptopia:crab",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Flickering Lights.csv",
+    "displayName": "Candle Holder - Multiple Colours",
+    "currency": "Gold Coins",
+    "cost": 4,
+    "resolvedId": "mcwlights:golden_low_candle_holder",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Flickering Lights.csv",
+    "displayName": "Candle Lantern Light - Multiple Colours",
+    "currency": "Gold Coins",
+    "cost": 2,
+    "resolvedId": "fairylights:candle_lantern_light",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Flickering Lights.csv",
+    "displayName": "Candle - Multiple Colours",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "hexerei:candle",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Flickering Lights.csv",
+    "displayName": "Flower Shelf Candle - Multiple Colours",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "cluttered:flower_shelf_candle_blue",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Flickering Lights.csv",
+    "displayName": "Black Candle x64",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "minecraft:black_candle",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Flickering Lights.csv",
+    "displayName": "Black Candle x32",
+    "currency": "Silver Coins",
+    "cost": 20,
+    "resolvedId": "minecraft:black_candle",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Flickering Lights.csv",
+    "displayName": "Copper Candle Holder - Multiple Variations",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "mcwlights:copper_low_candle_holder",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Flickering Lights.csv",
+    "displayName": "Table Candle Holder - Multiple Colours",
+    "currency": "Gold Coins",
+    "cost": 2,
+    "resolvedId": "mcwlights:golden_low_candle_holder",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Flickering Lights.csv",
+    "displayName": "Iron Candle Holder - Multiple Variations",
+    "currency": "Gold Coins",
+    "cost": 2,
+    "resolvedId": "mcwlights:iron_low_candle_holder",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Flickering Lights.csv",
+    "displayName": "Golden Candle Holder - Multiple Variations",
+    "currency": "Gold Coins",
+    "cost": 3,
+    "resolvedId": "mcwlights:golden_low_candle_holder",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Flickering Lights.csv",
+    "displayName": "Candalabra - Multiple Colours",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "minecraft:stone",
+    "unresolved": true
+  },
+  {
+    "shopCsv": "Flickering Lights.csv",
+    "displayName": "Copper Small Chandelier (Macaw's)",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "mcwlights:copper_small_chandelier",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Flickering Lights.csv",
+    "displayName": "Copper Chandelier (Macaw's)",
+    "currency": "Gold Coins",
+    "cost": 2,
+    "resolvedId": "mcwlights:copper_small_chandelier",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Flickering Lights.csv",
+    "displayName": "Iron Small Chandelier (Macaw's)",
+    "currency": "Gold Coins",
+    "cost": 2,
+    "resolvedId": "mcwlights:iron_small_chandelier",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Flickering Lights.csv",
+    "displayName": "Iron Chandelier (Macaw's)",
+    "currency": "Gold Coins",
+    "cost": 3,
+    "resolvedId": "mcwlights:iron_small_chandelier",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Flickering Lights.csv",
+    "displayName": "Golden Small Chandelier (Macaw's)",
+    "currency": "Gold Coins",
+    "cost": 3,
+    "resolvedId": "mcwlights:golden_small_chandelier",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Flickering Lights.csv",
+    "displayName": "Golden Chandelier (Macaw's)",
+    "currency": "Gold Coins",
+    "cost": 4,
+    "resolvedId": "mcwlights:golden_small_chandelier",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Flickering Lights.csv",
+    "displayName": "White Chandelier (MOA)",
+    "currency": "Gold Coins",
+    "cost": 2,
+    "resolvedId": "minecraft:white_wool",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Flickering Lights.csv",
+    "displayName": "Black Chandelier (MOA)",
+    "currency": "Gold Coins",
+    "cost": 2,
+    "resolvedId": "minecraft:black_wool",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Flickering Lights.csv",
+    "displayName": "Golden Chandelier (MOA)",
+    "currency": "",
+    "cost": 0,
+    "resolvedId": "mcwlights:golden_small_chandelier",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Flickering Lights.csv",
+    "displayName": "Grey Chandalier (MOA)",
+    "currency": "Gold Coins",
+    "cost": 2,
+    "resolvedId": "moa_decor_lights:candelabro_g",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Hells Bells Nether Imports.csv",
+    "displayName": "Soul Sand",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "minecraft:soul_sand",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Hells Bells Nether Imports.csv",
+    "displayName": "Soul Soil",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "minecraft:soul_soil",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Hells Bells Nether Imports.csv",
+    "displayName": "Netherrack",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "minecraft:netherrack",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Hells Bells Nether Imports.csv",
+    "displayName": "Blackstone",
+    "currency": "Gold Coins",
+    "cost": 12,
+    "resolvedId": "minecraft:blackstone",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Hells Bells Nether Imports.csv",
+    "displayName": "Glowstone",
+    "currency": "Gold Coins",
+    "cost": 12,
+    "resolvedId": "minecraft:glowstone",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Hells Bells Nether Imports.csv",
+    "displayName": "Basalt",
+    "currency": "Gold Coins",
+    "cost": 12,
+    "resolvedId": "minecraft:basalt",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Hells Bells Nether Imports.csv",
+    "displayName": "Block of Quartz",
+    "currency": "Gold Coins",
+    "cost": 20,
+    "resolvedId": "minecraft:chiseled_quartz_block",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Hells Bells Nether Imports.csv",
+    "displayName": "Obsidian",
+    "currency": "Gold Coins",
+    "cost": 20,
+    "resolvedId": "minecraft:obsidian",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Hells Bells Nether Imports.csv",
+    "displayName": "Nether Bricks",
+    "currency": "Gold Coins",
+    "cost": 20,
+    "resolvedId": "minecraft:nether_bricks",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Hells Bells Nether Imports.csv",
+    "displayName": "Blue Nether Bricks",
+    "currency": "Gold Coins",
+    "cost": 24,
+    "resolvedId": "quark:blue_nether_bricks",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Hells Bells Nether Imports.csv",
+    "displayName": "Red Nether Bricks",
+    "currency": "Gold Coins",
+    "cost": 24,
+    "resolvedId": "minecraft:red_nether_bricks",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Hells Bells Nether Imports.csv",
+    "displayName": "Netherite Ingot",
+    "currency": "Money",
+    "cost": 8,
+    "resolvedId": "minecraft:netherite_ingot",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Hells Bells Nether Imports.csv",
+    "displayName": "Smithing Template",
+    "currency": "Money",
+    "cost": 12,
+    "resolvedId": "minecraft:netherite_upgrade_smithing_template",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Hells Bells Nether Imports.csv",
+    "displayName": "Block of Netherite",
+    "currency": "Money",
+    "cost": 20,
+    "resolvedId": "minecraft:netherite_block",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Hells Bells Nether Imports.csv",
+    "displayName": "Gilded Blackstone",
+    "currency": "Money",
+    "cost": 2,
+    "resolvedId": "minecraft:gilded_blackstone",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Hells Bells Nether Imports.csv",
+    "displayName": "Wither Skull",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "minecraft:wither_skeleton_skull",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Hells Bells Nether Imports.csv",
+    "displayName": "Crying Obsidian",
+    "currency": "Money",
+    "cost": 4,
+    "resolvedId": "chipped:crying_obsidian",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Hells Bells Nether Imports.csv",
+    "displayName": "Ochre Froglight",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "minecraft:ochre_froglight",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Hells Bells Nether Imports.csv",
+    "displayName": "Pearlescent Froglight",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "minecraft:pearlescent_froglight",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Hells Bells Nether Imports.csv",
+    "displayName": "Verdant Froglight",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "minecraft:verdant_froglight",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Hells Bells Nether Imports.csv",
+    "displayName": "Warped Stem",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "minecraft:warped_stem",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Hells Bells Nether Imports.csv",
+    "displayName": "Shroomlight",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "minecraft:shroomlight",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Hells Bells Nether Imports.csv",
+    "displayName": "Crimson Stem",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "minecraft:crimson_stem",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Hells Bells Nether Imports.csv",
+    "displayName": "Warped Wart Block",
+    "currency": "Gold Coins",
+    "cost": 12,
+    "resolvedId": "minecraft:warped_wart_block",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Hells Bells Nether Imports.csv",
+    "displayName": "Block of Rose Quartz",
+    "currency": "Gold Coins",
+    "cost": 12,
+    "resolvedId": "biomesoplenty:rose_quartz_block",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Hells Bells Nether Imports.csv",
+    "displayName": "Nether Wart Block",
+    "currency": "Gold Coins",
+    "cost": 12,
+    "resolvedId": "minecraft:nether_wart_block",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Hells Bells Nether Imports.csv",
+    "displayName": "Ghast Tear",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "minecraft:ghast_tear",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Hells Bells Nether Imports.csv",
+    "displayName": "Blaze Rod",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "minecraft:blaze_rod",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Hells Bells Nether Imports.csv",
+    "displayName": "Magma Cream",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "minecraft:magma_cream",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Hells Bells Nether Imports.csv",
+    "displayName": "Warped Fungus",
+    "currency": "Gold Coins",
+    "cost": 4,
+    "resolvedId": "minecraft:warped_fungus",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Hells Bells Nether Imports.csv",
+    "displayName": "Crimson Fungus",
+    "currency": "Gold Coins",
+    "cost": 4,
+    "resolvedId": "minecraft:crimson_fungus",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Hells Bells Nether Imports.csv",
+    "displayName": "Nether Wart",
+    "currency": "Gold Coins",
+    "cost": 4,
+    "resolvedId": "minecraft:nether_wart",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Hells Bells Nether Imports.csv",
+    "displayName": "Potion of Fire Resisitance",
+    "currency": "Money",
+    "cost": 2,
+    "resolvedId": "minecraft:dead_fire_coral_block",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Hells Bells Nether Imports.csv",
+    "displayName": "Splash Potion of Regeneration",
+    "currency": "Money",
+    "cost": 2,
+    "resolvedId": "minecraft:splash_potion",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Hells Bells Nether Imports.csv",
+    "displayName": "Cobbled Soulstone",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "minecraft:cobbled_deepslate",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Hells Bells Nether Imports.csv",
+    "displayName": "Brimstone",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "biomesoplenty:brimstone",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Hells Bells Nether Imports.csv",
+    "displayName": "Hellbark",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "biomesoplenty:hellbark_sapling",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Honey Vibe.csv",
+    "displayName": "Honeycomb Lamp",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "cluttered:honeycomb_lamp",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Honey Vibe.csv",
+    "displayName": "Honey Block",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "minecraft:honey_block",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Honey Vibe.csv",
+    "displayName": "Honeycomb Block",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "minecraft:honeycomb_block",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Honey Vibe.csv",
+    "displayName": "Bottle of Honey",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "minecraft:honey_bottle",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Honey Vibe.csv",
+    "displayName": "Honeycomb",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "minecraft:honeycomb",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Honey Vibe.csv",
+    "displayName": "Honey Jar Block",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "minecraft:honey_block",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Honey Vibe.csv",
+    "displayName": "Honey Jar",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "vintagedelight:honey_jar",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Honey Vibe.csv",
+    "displayName": "Toast with Honey",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "moredelight:toast_with_honey",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Instruments.csv",
+    "displayName": "Handpan",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "immersive_melodies:handpan",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Instruments.csv",
+    "displayName": "Triangle",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "immersive_melodies:triangle",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Instruments.csv",
+    "displayName": "Enderbass",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "minecraft:stone",
+    "unresolved": true
+  },
+  {
+    "shopCsv": "Instruments.csv",
+    "displayName": "Trumpet",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "immersive_melodies:trumpet",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Instruments.csv",
+    "displayName": "Lute",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "immersive_melodies:lute",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Instruments.csv",
+    "displayName": "Vielle",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "immersive_melodies:vielle",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Instruments.csv",
+    "displayName": "Bagpipe",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "immersive_melodies:bagpipe",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Instruments.csv",
+    "displayName": "Flute",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "supplementaries:flute",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Instruments.csv",
+    "displayName": "Didgeridoo",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "immersive_melodies:didgeridoo",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Instruments.csv",
+    "displayName": "Piano",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "immersive_melodies:piano",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Justice Done.csv",
+    "displayName": "Ham Sandwich",
+    "currency": "Gold Coins",
+    "cost": 6,
+    "resolvedId": "cluttered:ham_sandwich",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Justice Done.csv",
+    "displayName": "BLT Sandwich",
+    "currency": "Gold Coins",
+    "cost": 6,
+    "resolvedId": "barbequesdelight:kebab_sandwich",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Justice Done.csv",
+    "displayName": "Toast Sandwich",
+    "currency": "Gold Coins",
+    "cost": 6,
+    "resolvedId": "croptopia:toast_sandwich",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Justice Done.csv",
+    "displayName": "Mutton Wrap",
+    "currency": "Gold Coins",
+    "cost": 6,
+    "resolvedId": "farmersdelight:mutton_wrap",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Justice Done.csv",
+    "displayName": "Pork Wrap",
+    "currency": "Gold Coins",
+    "cost": 6,
+    "resolvedId": "culturaldelights:pork_wrap",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Justice Done.csv",
+    "displayName": "Hamburger",
+    "currency": "Gold Coins",
+    "cost": 6,
+    "resolvedId": "croptopia:hamburger",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Midnights Book Corner.csv",
+    "displayName": "Enchanted Book - Lure 3",
+    "currency": "Gold Coins",
+    "cost": 10,
+    "resolvedId": "minecraft:enchanted_book",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Midnights Book Corner.csv",
+    "displayName": "Enchanted Book - Luck of the Sea 3",
+    "currency": "Gold Coins",
+    "cost": 10,
+    "resolvedId": "minecraft:enchanted_book",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Midnights Book Corner.csv",
+    "displayName": "Enchanted Book - Efficiency 4",
+    "currency": "Gold Coins",
+    "cost": 5,
+    "resolvedId": "minecraft:enchanted_book",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Midnights Book Corner.csv",
+    "displayName": "Enchanted Book - Mending",
+    "currency": "Gold Coins",
+    "cost": 10,
+    "resolvedId": "minecraft:enchanted_book",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Midnights Book Corner.csv",
+    "displayName": "Unbreaking 3",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "minecraft:enchanted_book",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Midnights Book Corner.csv",
+    "displayName": "Protection 4",
+    "currency": "Gold Coins",
+    "cost": 10,
+    "resolvedId": "rats:rat_upgrade_damage_protection",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Midnights Book Corner.csv",
+    "displayName": "Fortune 3",
+    "currency": "Gold Coins",
+    "cost": 10,
+    "resolvedId": "ars_nouveau:glyph_fortune",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Midnights Book Corner.csv",
+    "displayName": "Silk Touch",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "biomesoplenty:glowworm_silk",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Midnights Book Corner.csv",
+    "displayName": "Respiration 3",
+    "currency": "Gold Coins",
+    "cost": 10,
+    "resolvedId": "minecraft:enchanted_book",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Midnights Book Corner.csv",
+    "displayName": "Aqua Affinity",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "minecraft:enchanted_book",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Moss.csv",
+    "displayName": "Moss",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "miners_delight:moss",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Moss.csv",
+    "displayName": "Cobblestone",
+    "currency": "Gold Coins",
+    "cost": 4,
+    "resolvedId": "minecraft:cobblestone",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Mystical Augment Shop.csv",
+    "displayName": "Absorption V Augment",
+    "currency": "Money",
+    "cost": 3,
+    "resolvedId": "mysticalagriculture:absorption_v_augment",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Mystical Augment Shop.csv",
+    "displayName": "Luck III Augment",
+    "currency": "Money",
+    "cost": 3,
+    "resolvedId": "mysticalagriculture:luck_iii_augment",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Mystical Augment Shop.csv",
+    "displayName": "Health Boost III Augment",
+    "currency": "Money",
+    "cost": 3,
+    "resolvedId": "mysticalagriculture:health_boost_iii_augment",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Mystical Augment Shop.csv",
+    "displayName": "Mining AOE IV Augment",
+    "currency": "Money",
+    "cost": 3,
+    "resolvedId": "mysticalagriculture:mining_aoe_iv_augment",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Mystical Augment Shop.csv",
+    "displayName": "Haste III Augment",
+    "currency": "Money",
+    "cost": 3,
+    "resolvedId": "mysticalagriculture:haste_iii_augment",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Mystical Augment Shop.csv",
+    "displayName": "Wither Resistance Augment",
+    "currency": "Money",
+    "cost": 3,
+    "resolvedId": "mysticalagriculture:wither_resistance_augment",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Mystical Augment Shop.csv",
+    "displayName": "Mining Fatigue Resistance  Augment",
+    "currency": "Money",
+    "cost": 3,
+    "resolvedId": "mysticalagriculture:mining_fatigue_resistance_augment",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Mystical Augment Shop.csv",
+    "displayName": "Flight Augment",
+    "currency": "Money",
+    "cost": 10,
+    "resolvedId": "mysticalagriculture:flight_augment",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Mystical Augment Shop.csv",
+    "displayName": "Strength III Augment",
+    "currency": "Money",
+    "cost": 3,
+    "resolvedId": "mysticalagriculture:strength_iii_augment",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Mystical Augment Shop.csv",
+    "displayName": "Attack AOE III  Augment",
+    "currency": "Money",
+    "cost": 3,
+    "resolvedId": "mysticalagriculture:attack_aoe_iii_augment",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Mystical Augment Shop.csv",
+    "displayName": "Prosperity Shards",
+    "currency": "Gold Coins",
+    "cost": 32,
+    "resolvedId": "mysticalagriculture:prosperity_block",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Mystical Augment Shop.csv",
+    "displayName": "Night Vision  Augment",
+    "currency": "Money",
+    "cost": 3,
+    "resolvedId": "mysticalagriculture:night_vision_augment",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Mystical Augment Shop.csv",
+    "displayName": "Awakened Supremium Furnace",
+    "currency": "Money",
+    "cost": 5,
+    "resolvedId": "mysticalagriculture:awakened_supremium_furnace",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Mystical Augment Shop.csv",
+    "displayName": "Mystical Enlightenment V - Enchantment Book",
+    "currency": "Money",
+    "cost": 2,
+    "resolvedId": "ftbquests:book",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Mystical Augment Shop.csv",
+    "displayName": "Soul Siphon",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "minecraft:soul_sand",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Mystical Augment Shop.csv",
+    "displayName": "Water Breathing Augment",
+    "currency": "Money",
+    "cost": 3,
+    "resolvedId": "mysticalagriculture:water_breathing_augment",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Natures Grace.csv",
+    "displayName": "Prosperity Ingot",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "mysticalagriculture:prosperity_ingot",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Natures Grace.csv",
+    "displayName": "Inferium Essence",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "mysticalagriculture:inferium_essence",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Natures Grace.csv",
+    "displayName": "Prudentium Essence",
+    "currency": "Gold Coins",
+    "cost": 32,
+    "resolvedId": "mysticalagriculture:prudentium_essence",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Natures Grace.csv",
+    "displayName": "Tertium Essence",
+    "currency": "Gold Coins",
+    "cost": 32,
+    "resolvedId": "mysticalagriculture:tertium_essence",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Natures Grace.csv",
+    "displayName": "Imperium Essence",
+    "currency": "Money",
+    "cost": 2,
+    "resolvedId": "mysticalagriculture:imperium_essence",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Natures Grace.csv",
+    "displayName": "Supremium Essence",
+    "currency": "Money",
+    "cost": 2,
+    "resolvedId": "mysticalagriculture:supremium_essence",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Natures Grace.csv",
+    "displayName": "Prosperity Gemstone",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "mysticalagriculture:prosperity_gemstone",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Natures Grace.csv",
+    "displayName": "White Hopper Botany Pot",
+    "currency": "Gold Coins",
+    "cost": 4,
+    "resolvedId": "botanypotstiers:elite_white_terracotta_hopper_botany_pot",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Natures Grace.csv",
+    "displayName": "Elite White Hopper Botany Pot",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "botanypotstiers:elite_white_terracotta_hopper_botany_pot",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Natures Grace.csv",
+    "displayName": "Ultra White Hopper Botany Pot",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "botanypotstiers:ultra_white_terracotta_hopper_botany_pot",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Natures Grace.csv",
+    "displayName": "Creative White Hopper Botany Pot",
+    "currency": "Money",
+    "cost": 3,
+    "resolvedId": "botanypotstiers:creative_white_terracotta_hopper_botany_pot",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Natures Grace.csv",
+    "displayName": "Limited Oak Barrel III",
+    "currency": "Gold Coins",
+    "cost": 4,
+    "resolvedId": "chipped:oak_barrel",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Natures Grace.csv",
+    "displayName": "Supremium Farmland",
+    "currency": "Gold Coins",
+    "cost": 4,
+    "resolvedId": "mysticalagriculture:supremium_farmland",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Natures Grace.csv",
+    "displayName": "Prosperity Seed Base",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "mysticalagriculture:prosperity_seed_base",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Natures Grace.csv",
+    "displayName": "Soulium Seed Base",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "mysticalagriculture:soulium_seed_base",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Natures Grace.csv",
+    "displayName": "Unattuned Augment",
+    "currency": "Gold Coins",
+    "cost": 4,
+    "resolvedId": "mysticalagriculture:unattuned_augment",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Natures Grace.csv",
+    "displayName": "Machine Frame",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "mysticalagriculture:machine_frame",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Nether Stars!!.csv",
+    "displayName": "Nether Star",
+    "currency": "Gold Coins",
+    "cost": 25,
+    "resolvedId": "minecraft:nether_star",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "noodles.csv",
+    "displayName": "Noodle Soup",
+    "currency": "Gold Coins",
+    "cost": 10,
+    "resolvedId": "displaydelight:noodle_soup",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Pet Supplies.csv",
+    "displayName": "Pet Bed - Red",
+    "currency": "Gold Coins",
+    "cost": 2,
+    "resolvedId": "domesticationinnovation:pet_bed_red",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Pet Supplies.csv",
+    "displayName": "Dog House - Oak",
+    "currency": "Gold Coins",
+    "cost": 2,
+    "resolvedId": "polly_pets:oak_dog_house",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Pet Supplies.csv",
+    "displayName": "Pet Bowl - Red",
+    "currency": "Gold Coins",
+    "cost": 2,
+    "resolvedId": "polly_pets:pet_bowl",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Pet Supplies.csv",
+    "displayName": "Pet Bed - Brown",
+    "currency": "Gold Coins",
+    "cost": 2,
+    "resolvedId": "domesticationinnovation:pet_bed_brown",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Record Shop.csv",
+    "displayName": "Music Disc",
+    "currency": "Gold Coins",
+    "cost": 10,
+    "resolvedId": "morediscs:music_disc_disc",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Rock and Stone.csv",
+    "displayName": "Cobblestone",
+    "currency": "Gold Coins",
+    "cost": 2,
+    "resolvedId": "minecraft:cobblestone",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Rock and Stone.csv",
+    "displayName": "Stone",
+    "currency": "Gold Coins",
+    "cost": 4,
+    "resolvedId": "minecraft:stone",
+    "unresolved": true
+  },
+  {
+    "shopCsv": "Rock and Stone.csv",
+    "displayName": "Deepslate",
+    "currency": "Gold Coins",
+    "cost": 6,
+    "resolvedId": "minecraft:deepslate",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Rock and Stone.csv",
+    "displayName": "Iron Ingots",
+    "currency": "Gold Coins",
+    "cost": 10,
+    "resolvedId": "minecraft:iron_ore",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Rock and Stone.csv",
+    "displayName": "Block of Coal",
+    "currency": "Gold Coins",
+    "cost": 5,
+    "resolvedId": "minecraft:coal_block",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Rock and Stone.csv",
+    "displayName": "Copper Ingot",
+    "currency": "Gold Coins",
+    "cost": 4,
+    "resolvedId": "minecraft:copper_ingot",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Rock and Stone.csv",
+    "displayName": "Block of Redstone",
+    "currency": "Gold Coins",
+    "cost": 10,
+    "resolvedId": "minecraft:redstone_block",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Rock and Stone.csv",
+    "displayName": "Block of Lapis Lazuli",
+    "currency": "Gold Coins",
+    "cost": 10,
+    "resolvedId": "minecraft:lapis_block",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Rock and Stone.csv",
+    "displayName": "Diamond",
+    "currency": "Gold Coins",
+    "cost": 10,
+    "resolvedId": "minecraft:diamond",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Rock and Stone.csv",
+    "displayName": "Emerald",
+    "currency": "Gold Coins",
+    "cost": 10,
+    "resolvedId": "minecraft:emerald",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Rock and Stone.csv",
+    "displayName": "Netherite Ingot",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "minecraft:netherite_ingot",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Sidus Treasures  .csv",
+    "displayName": "Bottle o' Enchanting",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "minecraft:enchanting_table",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Sidus Treasures  .csv",
+    "displayName": "Dragon Head",
+    "currency": "Money",
+    "cost": 32,
+    "resolvedId": "minecraft:dragon_head",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Sidus Treasures  .csv",
+    "displayName": "Strider Rock",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "mynethersdelight:strider_rock",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Sidus Treasures  .csv",
+    "displayName": "Stack Upgrade Tier 3",
+    "currency": "Money",
+    "cost": 2,
+    "resolvedId": "sophisticatedstorage:stack_upgrade_tier_3",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Sidus Treasures  .csv",
+    "displayName": "Stack Upgrade Tier 4",
+    "currency": "Money",
+    "cost": 4,
+    "resolvedId": "sophisticatedstorage:stack_upgrade_tier_4",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Sidus Treasures  .csv",
+    "displayName": "Stack Upgrade Tier 5",
+    "currency": "Money",
+    "cost": 8,
+    "resolvedId": "sophisticatedstorage:stack_upgrade_tier_5",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Sidus Treasures  .csv",
+    "displayName": "Stack Upgrade Omega Tier",
+    "currency": "Money",
+    "cost": 32,
+    "resolvedId": "sophisticatedstorage:stack_upgrade_omega_tier",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Sidus Treasures  .csv",
+    "displayName": "Nether Start",
+    "currency": "Money",
+    "cost": 4,
+    "resolvedId": "minecraft:nether_gold_ore",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Sidus Treasures  .csv",
+    "displayName": "Totem of Undying",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "minecraft:totem_of_undying",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Sidus Treasures  .csv",
+    "displayName": "End Stone",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "minecraft:end_stone",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Sidus Treasures  .csv",
+    "displayName": "Purpur Block",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "minecraft:purpur_block",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Sidus Treasures  .csv",
+    "displayName": "Shulker Box",
+    "currency": "Money",
+    "cost": 2,
+    "resolvedId": "sophisticatedstorage:shulker_box",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Sidus Treasures  .csv",
+    "displayName": "Netherite Shulker Box",
+    "currency": "Money",
+    "cost": 6,
+    "resolvedId": "sophisticatedstorage:netherite_shulker_box",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Sidus Treasures  .csv",
+    "displayName": "Ghasta",
+    "currency": "Gold Coins",
+    "cost": 4,
+    "resolvedId": "mynethersdelight:ghasta",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Sidus Treasures  .csv",
+    "displayName": "Dragon's Breath",
+    "currency": "Money",
+    "cost": 4,
+    "resolvedId": "minecraft:dragon_breath",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Dirt",
+    "currency": "Silver Coins",
+    "cost": 8,
+    "resolvedId": "minecraft:dirt",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Mud",
+    "currency": "Silver Coins",
+    "cost": 12,
+    "resolvedId": "minecraft:mud",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Coarse Dirt",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "minecraft:coarse_dirt",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Grass Block",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "minecraft:grass_block",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Packed Mud",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "minecraft:packed_mud",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Mud Brick",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "minecraft:mud_brick_slab",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Sand",
+    "currency": "Silver Coins",
+    "cost": 12,
+    "resolvedId": "minecraft:sand",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Gravel",
+    "currency": "Silver Coins",
+    "cost": 12,
+    "resolvedId": "minecraft:gravel",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Tuff",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "minecraft:tuff",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Andesite",
+    "currency": "Silver Coins",
+    "cost": 12,
+    "resolvedId": "minecraft:andesite",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Granite",
+    "currency": "Silver Coins",
+    "cost": 12,
+    "resolvedId": "minecraft:granite",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Diorite",
+    "currency": "Silver Coins",
+    "cost": 12,
+    "resolvedId": "minecraft:diorite",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Clay",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "minecraft:clay",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Clay Ball",
+    "currency": "Silver Coins",
+    "cost": 8,
+    "resolvedId": "minecraft:clay_ball",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Terracotta",
+    "currency": "Gold Coins",
+    "cost": 2,
+    "resolvedId": "minecraft:terracotta",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Cobblestone",
+    "currency": "Silver Coins",
+    "cost": 8,
+    "resolvedId": "minecraft:cobblestone",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Stone",
+    "currency": "Silver Coins",
+    "cost": 12,
+    "resolvedId": "minecraft:stone",
+    "unresolved": true
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Stone Bricks",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "minecraft:stone_bricks",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Deepslate",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "minecraft:deepslate",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Cobbled Deepslate",
+    "currency": "Silver Coins",
+    "cost": 12,
+    "resolvedId": "minecraft:cobbled_deepslate",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Calcite",
+    "currency": "Gold Coins",
+    "cost": 3,
+    "resolvedId": "minecraft:calcite",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Blackstone",
+    "currency": "Gold Coins",
+    "cost": 3,
+    "resolvedId": "minecraft:blackstone",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Cross Necklace",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "artifacts:cross_necklace",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Charm of Sinking",
+    "currency": "Gold Coins",
+    "cost": 24,
+    "resolvedId": "artifacts:charm_of_sinking",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Scarf of Invisiblity",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "botania:cosmetic_puffy_scarf",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Lucky Scarf",
+    "currency": "Money",
+    "cost": 2,
+    "resolvedId": "artifacts:lucky_scarf",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Superstitious Hat",
+    "currency": "Money",
+    "cost": 2,
+    "resolvedId": "artifacts:superstitious_hat",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Cowboy Hat",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "artifacts:cowboy_hat",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Angler's Hat",
+    "currency": "Money",
+    "cost": 2,
+    "resolvedId": "lilis_lucky_lures:anglers_hat",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Villager Hat",
+    "currency": "Money",
+    "cost": 2,
+    "resolvedId": "artifacts:villager_hat",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Novelty Drinking Hat",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "artifacts:novelty_drinking_hat",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Plastic Drinking Hat",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "artifacts:plastic_drinking_hat",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Snorkel",
+    "currency": "Gold Coins",
+    "cost": 24,
+    "resolvedId": "artifacts:snorkel",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Crystal Heart",
+    "currency": "Money",
+    "cost": 2,
+    "resolvedId": "artifacts:crystal_heart",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Cloud Bottle",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "artifacts:cloud_in_a_bottle",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Helium Flamingo",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "artifacts:helium_flamingo",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Universal Attractor",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "artifacts:universal_attractor",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Obsidian Skull",
+    "currency": "Gold Coins",
+    "cost": 24,
+    "resolvedId": "artifacts:obsidian_skull",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Aqua-Dashers",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "artifacts:aqua_dashers",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Steadfast Spikes",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "artifacts:steadfast_spikes",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Flippers",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "artifacts:flippers",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Rooted Boots",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "artifacts:rooted_boots",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Kitty Slippers",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "artifacts:kitty_slippers",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Digging Claws",
+    "currency": "Gold Coins",
+    "cost": 28,
+    "resolvedId": "artifacts:digging_claws",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Feral Claws",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "artifacts:feral_claws",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Vampiric Glove",
+    "currency": "Money",
+    "cost": 2,
+    "resolvedId": "artifacts:vampiric_glove",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Golden Hook",
+    "currency": "Gold Coins",
+    "cost": 24,
+    "resolvedId": "artifacts:golden_hook",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Pickaxe Heater",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "artifacts:pickaxe_heater",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Power Glove",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "artifacts:power_glove",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Fire Gauntlet",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "artifacts:fire_gauntlet",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Panic Necklace",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "artifacts:panic_necklace",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Shock Pendant",
+    "currency": "Money",
+    "cost": 2,
+    "resolvedId": "artifacts:shock_pendant",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Flame Pendant",
+    "currency": "Gold Coins",
+    "cost": 24,
+    "resolvedId": "artifacts:flame_pendant",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Thorn Pendant",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "artifacts:thorn_pendant",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Whoopee Cushion",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "artifacts:whoopee_cushion",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Chorus Totem",
+    "currency": "Money",
+    "cost": 2,
+    "resolvedId": "artifacts:chorus_totem",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Pocket Piston",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "artifacts:pocket_piston",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Antidote Vesselt",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "artifacts:antidote_vessel",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Onion Ring",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "artifacts:onion_ring",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Night Vision",
+    "currency": "Money",
+    "cost": 2,
+    "resolvedId": "artifacts:night_vision_goggles",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Running Shoes",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "artifacts:running_shoes",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Bunny Hoppers",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "artifacts:bunny_hoppers",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Snowshoes",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "artifacts:snowshoes",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Umbrella",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "artifacts:umbrella",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Nether Star",
+    "currency": "Gold Coins",
+    "cost": 26,
+    "resolvedId": "minecraft:nether_star",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Soul Sand",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "minecraft:soul_sand",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Wither Skeleton Skull",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "minecraft:wither_skeleton_skull",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Cookie",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "minecraft:cookie",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Nether Quartz",
+    "currency": "Silver Coins",
+    "cost": 4,
+    "resolvedId": "minecraft:nether_quartz_ore",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Block of Quartz",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "minecraft:chiseled_quartz_block",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Diamond",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "minecraft:diamond",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Netherite Ingot",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "minecraft:netherite_ingot",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Netherite Scrap",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "minecraft:netherite_scrap",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Coal",
+    "currency": "Silver Coins",
+    "cost": 2,
+    "resolvedId": "minecraft:coal",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Amethyst Shard",
+    "currency": "Gold Coins",
+    "cost": 2,
+    "resolvedId": "minecraft:amethyst_shard",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Lapis Lazuli",
+    "currency": "Gold Coins",
+    "cost": 2,
+    "resolvedId": "minecraft:lapis_lazuli",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Terrasteel Ingot",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "botania:terrasteel_ingot",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Elementium Ingot",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "botania:elementium_ingot",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Manasteel Ingot",
+    "currency": "Gold Coins",
+    "cost": 12,
+    "resolvedId": "botania:manasteel_ingot",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Iron Ingot",
+    "currency": "Gold Coins",
+    "cost": 6,
+    "resolvedId": "minecraft:iron_ingot",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Gold Ingot",
+    "currency": "Gold Coins",
+    "cost": 4,
+    "resolvedId": "minecraft:gold_ingot",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Copper Ingot",
+    "currency": "Gold Coins",
+    "cost": 2,
+    "resolvedId": "minecraft:copper_ingot",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Chunk.csv",
+    "displayName": "Pickle",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "vintagedelight:pickle",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Forge.csv",
+    "displayName": "Wild Armor Trim",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "minecraft:wild_armor_trim_smithing_template",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Forge.csv",
+    "displayName": "Vex Armor Trim",
+    "currency": "Gold Coins",
+    "cost": 6,
+    "resolvedId": "minecraft:vex_armor_trim_smithing_template",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Forge.csv",
+    "displayName": "Sentry Armor Trim",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "minecraft:sentry_armor_trim_smithing_template",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Forge.csv",
+    "displayName": "Dune Armor Trim",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "minecraft:dune_armor_trim_smithing_template",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Forge.csv",
+    "displayName": "Ward Armor Trim",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "minecraft:ward_armor_trim_smithing_template",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Forge.csv",
+    "displayName": "Coast  Armor Trim",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "minecraft:coast_armor_trim_smithing_template",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Forge.csv",
+    "displayName": "Tide Armor Trim",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "minecraft:tide_armor_trim_smithing_template",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Forge.csv",
+    "displayName": "Silence Armor Trim",
+    "currency": "Gold Coins",
+    "cost": 10,
+    "resolvedId": "minecraft:silence_armor_trim_smithing_template",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Forge.csv",
+    "displayName": "Rib Armor Trim",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "minecraft:rib_armor_trim_smithing_template",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Forge.csv",
+    "displayName": "Snout  Armor Trim",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "minecraft:snout_armor_trim_smithing_template",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Forge.csv",
+    "displayName": "Eye Armor Trim",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "minecraft:eye_armor_trim_smithing_template",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Forge.csv",
+    "displayName": "Spire Armor Trim",
+    "currency": "Gold Coins",
+    "cost": 8,
+    "resolvedId": "minecraft:spire_armor_trim_smithing_template",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Forge.csv",
+    "displayName": "Host Armor Trim",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "minecraft:host_armor_trim_smithing_template",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Forge.csv",
+    "displayName": "Shaper Armor Trim",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "minecraft:shaper_armor_trim_smithing_template",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Forge.csv",
+    "displayName": "Raiser Armor Trim",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "minecraft:raiser_armor_trim_smithing_template",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "The Forge.csv",
+    "displayName": "Wayfinder Armor Trim",
+    "currency": "Gold Coins",
+    "cost": 16,
+    "resolvedId": "minecraft:wayfinder_armor_trim_smithing_template",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Under the Sea.csv",
+    "displayName": "Prismarine Block",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "minecraft:dripstone_block",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Under the Sea.csv",
+    "displayName": "Dark Prismarine Block",
+    "currency": "Gold Coins",
+    "cost": 2,
+    "resolvedId": "minecraft:dark_prismarine_slab",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Under the Sea.csv",
+    "displayName": "Prismarine Slab",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "minecraft:prismarine_slab",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Under the Sea.csv",
+    "displayName": "Dark Prismarine Slab",
+    "currency": "Gold Coins",
+    "cost": 2,
+    "resolvedId": "minecraft:dark_prismarine_slab",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Under the Sea.csv",
+    "displayName": "Ink Sac",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "minecraft:ink_sac",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Under the Sea.csv",
+    "displayName": "Sea Lantern",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "minecraft:sea_lantern",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Under the Sea.csv",
+    "displayName": "Turtle Egg",
+    "currency": "Gold Coins",
+    "cost": 10,
+    "resolvedId": "minecraft:turtle_egg",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Under the Sea.csv",
+    "displayName": "Scute",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "minecraft:scute",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Under the Sea.csv",
+    "displayName": "Brain Coral Blocks - All Types",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "minecraft:dead_brain_coral_block",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Under the Sea.csv",
+    "displayName": "Brain Coral - All Types",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "minecraft:dead_brain_coral_block",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Under the Sea.csv",
+    "displayName": "Seagrass",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "minecraft:seagrass",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Under the Sea.csv",
+    "displayName": "Fish Tank",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "polly_pets:fish_tank",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Under the Sea.csv",
+    "displayName": "Sea Pickle",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "minecraft:sea_pickle",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Under the Sea.csv",
+    "displayName": "Nautilus Shell",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "minecraft:nautilus_shell",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Under the Sea.csv",
+    "displayName": "Conduit",
+    "currency": "Gold Coins",
+    "cost": 4,
+    "resolvedId": "minecraft:conduit",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Under the Sea.csv",
+    "displayName": "Bucket of Tadpole",
+    "currency": "Gold Coins",
+    "cost": 2,
+    "resolvedId": "minecraft:tadpole_bucket",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Under the Sea.csv",
+    "displayName": "Bucket of Axolotl - All Types",
+    "currency": "Gold Coins",
+    "cost": 12,
+    "resolvedId": "minecraft:axolotl_bucket",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Under the Sea.csv",
+    "displayName": "Prismarine Bricks",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "chipped:prismarine_bricks",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Under the Sea.csv",
+    "displayName": "Iridescent Tiles",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "cluttered:tiles_iridescent",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Under the Sea.csv",
+    "displayName": "Mermaid Dresser",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "cluttered:mermaid_dresser",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Under the Sea.csv",
+    "displayName": "Sea Gem Lantern",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "cluttered:sea_gem_lantern",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Under the Sea.csv",
+    "displayName": "Horn Coral Fan",
+    "currency": "Gold Coins",
+    "cost": 1,
+    "resolvedId": "minecraft:horn_coral_fan",
+    "unresolved": false
+  },
+  {
+    "shopCsv": "Waystone Store.csv",
+    "displayName": "Waystone - All Materials",
+    "currency": "Money",
+    "cost": 1,
+    "resolvedId": "everycomp:all_woods",
+    "unresolved": false
+  }
+]

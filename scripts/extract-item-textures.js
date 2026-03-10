@@ -64,7 +64,7 @@ async function extractTextures() {
 
     await extractFromJar(jarPath, {
       items: true,
-      blocks: false
+      blocks: true
     })
   }
 

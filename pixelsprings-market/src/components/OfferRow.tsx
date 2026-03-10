@@ -1,4 +1,3 @@
-import React from "react"
 import type { Offer } from "../domain/types"
 import { ItemIcon } from "./ItemIcon"
 
@@ -13,7 +12,6 @@ export function OfferRow({ offer, onClick }: OfferRowProps) {
       onClick={onClick}
       className="bg-gray-700 border-2 border-gray-900 mb-2 p-2 flex items-center cursor-pointer hover:bg-gray-600"
     >
-      {/* prevent the icon from shrinking when sidebar is narrow */}
       <div className="flex-shrink-0">
         <ItemIcon
           itemId={offer.currencyItemId}
